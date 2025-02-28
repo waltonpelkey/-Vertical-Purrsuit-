@@ -1,0 +1,21 @@
+<HEADER>
+frames 1
+width 9
+height 8
+color white
+slowdown 8
+</HEADER>
+<BODY>
+(")(")   
+         
+ /\_/\   
+{=0w0=}  
+ ""*""   
+   ))    
+  ((     
+   '     
+end
+</BODY>
+<FOOTER>
+version 1
+<FOOTER>
