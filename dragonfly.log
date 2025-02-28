@@ -1,0 +1,27 @@
+16:52:00    0 ****************************************************
+16:52:00    0 ** Dragonfly version 4.21 **
+16:52:00    0 ** Game engine started **
+16:52:00    0 ****************************************************
+16:52:02    7 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+16:52:04   65 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+16:52:05   90 WorldManager::isValid(): Event df-out handled automatically.
+16:52:05   90 Manager(WorldManager)::registerInterest(): Event 'df-out' not valid for this Manager
+16:52:05   90 WorldManager::isValid(): Event df-collision handled automatically.
+16:52:05   90 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+16:52:05    1 GameManager::run(): Can't keep up! frame_time 33 ms, split 43 ms
+16:52:05    2 GameManager::run(): Can't keep up! frame_time 33 ms, split 43 ms
+16:52:05    3 GameManager::run(): Can't keep up! frame_time 33 ms, split 37 ms
+16:52:05    6 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+16:52:05    7 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+16:52:05    8 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+16:52:05    9 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+16:52:05   10 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+16:52:10  161 GameManager::run(): Can't keep up! frame_time 33 ms, split 43 ms
+16:52:10  162 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+16:52:11  176 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
+16:52:11  177 GameManager::run(): Can't keep up! frame_time 33 ms, split 41 ms
+16:52:11  178 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+16:52:12  211 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+16:52:12  212 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+16:52:33  840 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+16:52:33  845 GameManager::run(): Can't keep up! frame_time 33 ms, split 37 ms
