@@ -1,0 +1,25 @@
+<HEADER>
+frames 2
+width 15
+height 5
+color white
+slowdown 4
+</HEADER>
+<BODY>
+       ___    
+      (   )   
+   /`oo/`\\   
+ _'____'__''__
+/____________/
+end
+        ___   
+   _   (   )  
+  ( `oo|` ))  
+ _'____'__''__
+/____________/
+end
+
+</BODY>
+<FOOTER>
+version 1
+</FOOTER>

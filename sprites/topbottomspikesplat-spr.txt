@@ -1,0 +1,17 @@
+<HEADER>
+frames 1
+width 15
+height 3
+color white
+slowdown 4
+</HEADER>
+<BODY>
+ _/\_/\_/\_/\_
+/____________/
+ \/\/\/\/\/\/ 
+end
+
+</BODY>
+<FOOTER>
+version 1
+</FOOTER>
