@@ -146,13 +146,20 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Cat.h" />
+    <ClInclude Include="EventScore.h" />
+    <ClInclude Include="Fish.h" />
+    <ClInclude Include="Floor.h" />
+    <ClInclude Include="Platform.h" />
+    <ClInclude Include="Score.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="EventScore.cpp" />
+    <ClCompile Include="Fish.cpp" />
+    <ClCompile Include="Floor.cpp" />
     <ClCompile Include="game.cpp" />
     <ClCompile Include="Cat.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="sprites\cat-walking-left-spr.txt" />
+    <ClCompile Include="Platform.cpp" />
+    <ClCompile Include="Score.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
