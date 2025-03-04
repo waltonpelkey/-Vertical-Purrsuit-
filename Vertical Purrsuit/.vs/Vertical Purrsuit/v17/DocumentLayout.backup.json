@@ -1,12 +1,359 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Score.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|solutionrelative:Score.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Platform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|solutionrelative:Platform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Score.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|solutionrelative:Score.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Platform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|solutionrelative:Platform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Floor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|solutionrelative:Floor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Floor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|solutionrelative:Floor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Fish.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|solutionrelative:Fish.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Fish.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|solutionrelative:Fish.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\EventScore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|solutionrelative:EventScore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\EventScore.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|solutionrelative:EventScore.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\EventCatnip.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|solutionrelative:EventCatnip.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\EventCatnip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|solutionrelative:EventCatnip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\CatnipEffect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|solutionrelative:CatnipEffect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\CatnipEffect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|solutionrelative:CatnipEffect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Catnip.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|solutionrelative:Catnip.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Catnip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|solutionrelative:Catnip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Cat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|solutionrelative:Cat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Cat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|solutionrelative:Cat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|solutionrelative:game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465C87B2-6FE7-4D27-B0A7-A2DAAF6F759D}|Vertical Purrsuit.vcxproj|C:\\USERS\\PELKE\\ONEDRIVE\\DOCUMENTS\\VISUAL STUDIO 2022\\PROJECTS\\DRAGONFLY\\INCLUDE\\DISPLAYMANAGER.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Platform.h",
+              "DocumentMoniker": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Platform.h",
+              "RelativeDocumentMoniker": "Platform.h",
+              "ToolTip": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Platform.h",
+              "RelativeToolTip": "Platform.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-04T01:01:40.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Score.h",
+              "DocumentMoniker": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Score.h",
+              "RelativeDocumentMoniker": "Score.h",
+              "ToolTip": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Score.h",
+              "RelativeToolTip": "Score.h",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-04T01:01:58.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Platform.cpp",
+              "DocumentMoniker": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Platform.cpp",
+              "RelativeDocumentMoniker": "Platform.cpp",
+              "ToolTip": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Platform.cpp",
+              "RelativeToolTip": "Platform.cpp",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAI8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-04T01:01:47.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Floor.cpp",
+              "DocumentMoniker": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Floor.cpp",
+              "RelativeDocumentMoniker": "Floor.cpp",
+              "ToolTip": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Floor.cpp",
+              "RelativeToolTip": "Floor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-04T01:01:31.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Score.cpp",
+              "DocumentMoniker": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Score.cpp",
+              "RelativeDocumentMoniker": "Score.cpp",
+              "ToolTip": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Score.cpp",
+              "RelativeToolTip": "Score.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-03T23:28:08.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Floor.h",
+              "DocumentMoniker": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Floor.h",
+              "RelativeDocumentMoniker": "Floor.h",
+              "ToolTip": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Floor.h",
+              "RelativeToolTip": "Floor.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-04T01:01:22.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Fish.cpp",
+              "DocumentMoniker": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Fish.cpp",
+              "RelativeDocumentMoniker": "Fish.cpp",
+              "ToolTip": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Fish.cpp",
+              "RelativeToolTip": "Fish.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-04T02:34:40.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Fish.h",
+              "DocumentMoniker": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Fish.h",
+              "RelativeDocumentMoniker": "Fish.h",
+              "ToolTip": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Fish.h",
+              "RelativeToolTip": "Fish.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-04T01:01:04.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventScore.cpp",
+              "DocumentMoniker": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\EventScore.cpp",
+              "RelativeDocumentMoniker": "EventScore.cpp",
+              "ToolTip": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\EventScore.cpp",
+              "RelativeToolTip": "EventScore.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-03T23:27:44.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventScore.h",
+              "DocumentMoniker": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\EventScore.h",
+              "RelativeDocumentMoniker": "EventScore.h",
+              "ToolTip": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\EventScore.h",
+              "RelativeToolTip": "EventScore.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-04T01:00:47.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventCatnip.h",
+              "DocumentMoniker": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\EventCatnip.h",
+              "RelativeDocumentMoniker": "EventCatnip.h",
+              "ToolTip": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\EventCatnip.h",
+              "RelativeToolTip": "EventCatnip.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-03T20:18:40.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EventCatnip.cpp",
+              "DocumentMoniker": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\EventCatnip.cpp",
+              "RelativeDocumentMoniker": "EventCatnip.cpp",
+              "ToolTip": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\EventCatnip.cpp",
+              "RelativeToolTip": "EventCatnip.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-03T20:19:22.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CatnipEffect.cpp",
+              "DocumentMoniker": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\CatnipEffect.cpp",
+              "RelativeDocumentMoniker": "CatnipEffect.cpp",
+              "ToolTip": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\CatnipEffect.cpp",
+              "RelativeToolTip": "CatnipEffect.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-03T20:53:21.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CatnipEffect.h",
+              "DocumentMoniker": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\CatnipEffect.h",
+              "RelativeDocumentMoniker": "CatnipEffect.h",
+              "ToolTip": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\CatnipEffect.h",
+              "RelativeToolTip": "CatnipEffect.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-03T20:22:50.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Catnip.h",
+              "DocumentMoniker": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Catnip.h",
+              "RelativeDocumentMoniker": "Catnip.h",
+              "ToolTip": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Catnip.h",
+              "RelativeToolTip": "Catnip.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-03T20:12:56.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Catnip.cpp",
+              "DocumentMoniker": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Catnip.cpp",
+              "RelativeDocumentMoniker": "Catnip.cpp",
+              "ToolTip": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Catnip.cpp",
+              "RelativeToolTip": "Catnip.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-03T20:15:29.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Cat.h",
+              "DocumentMoniker": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Cat.h",
+              "RelativeDocumentMoniker": "Cat.h",
+              "ToolTip": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Cat.h",
+              "RelativeToolTip": "Cat.h",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-03T15:11:48.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cat.cpp",
+              "DocumentMoniker": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Cat.cpp",
+              "RelativeDocumentMoniker": "Cat.cpp",
+              "ToolTip": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\Cat.cpp",
+              "RelativeToolTip": "Cat.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-03T19:22:56.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "game.cpp",
+              "DocumentMoniker": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\game.cpp",
+              "RelativeDocumentMoniker": "game.cpp",
+              "ToolTip": "C:\\Users\\pelke\\OneDrive\\Documents\\GitHub\\Vertical Purrsuit\\Vertical Purrsuit\\game.cpp",
+              "RelativeToolTip": "game.cpp",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAH0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-03T17:22:50.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DisplayManager.h",
+              "DocumentMoniker": "C:\\Users\\pelke\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\dragonfly\\include\\DisplayManager.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\Visual Studio 2022\\Projects\\dragonfly\\include\\DisplayManager.h",
+              "ToolTip": "C:\\Users\\pelke\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\dragonfly\\include\\DisplayManager.h",
+              "RelativeToolTip": "..\\..\\..\\Visual Studio 2022\\Projects\\dragonfly\\include\\DisplayManager.h",
+              "ViewState": "AgIAAFEAAAAAAAAAAAArwGMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-03T23:05:52.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

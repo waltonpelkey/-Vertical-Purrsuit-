@@ -2,7 +2,7 @@
 frames 2
 width 9
 height 8
-color white
+color black
 slowdown 8
 </HEADER>
 <BODY>

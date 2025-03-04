@@ -33,6 +33,15 @@
     <ClInclude Include="EventScore.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Catnip.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EventCatnip.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CatnipEffect.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Cat.cpp">
@@ -54,6 +63,15 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="EventScore.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Catnip.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EventCatnip.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CatnipEffect.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

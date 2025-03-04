@@ -1,0 +1,24 @@
+<HEADER>
+frames 2
+width 7
+height 5
+color green
+slowdown 16
+</HEADER>
+<BODY>
+  +/  +
++\ \+/ 
+ _\//_ 
+[ CAT ]
+ \___/ 
+end
+  +/  +
++\ \+/ 
+ _\//_ 
+[ NIP ]
+ \___/ 
+end
+</BODY>
+<FOOTER>
+version 1
+</FOOTER>

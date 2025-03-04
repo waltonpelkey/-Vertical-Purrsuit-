@@ -1,11 +1,138 @@
-﻿  Score.cpp
-C:\Users\pelke\OneDrive\Documents\GitHub\Vertical Purrsuit\Vertical Purrsuit\Cat.h(29,24): warning C4305: 'initializing': truncation from 'double' to 'const float'
+﻿  Cat.cpp
+C:\Users\pelke\OneDrive\Documents\Visual Studio 2022\Projects\SFML-3.0\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'Cat.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Users\pelke\OneDrive\Documents\Visual Studio 2022\Projects\SFML-3.0\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+C:\Users\pelke\OneDrive\Documents\GitHub\Vertical Purrsuit\Vertical Purrsuit\Cat.h(28,24): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'Cat.cpp')
+  
+C:\Users\pelke\OneDrive\Documents\GitHub\Vertical Purrsuit\Vertical Purrsuit\Cat.h(29,27): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'Cat.cpp')
+  
+C:\Users\pelke\OneDrive\Documents\GitHub\Vertical Purrsuit\Vertical Purrsuit\Cat.h(30,21): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'Cat.cpp')
+  
+C:\Users\pelke\OneDrive\Documents\GitHub\Vertical Purrsuit\Vertical Purrsuit\Cat.cpp(67,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Catnip.cpp
+  CatnipEffect.cpp
+C:\Users\pelke\OneDrive\Documents\Visual Studio 2022\Projects\SFML-3.0\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'CatnipEffect.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Users\pelke\OneDrive\Documents\Visual Studio 2022\Projects\SFML-3.0\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+  EventCatnip.cpp
+  EventScore.cpp
+  Fish.cpp
+C:\Users\pelke\OneDrive\Documents\GitHub\Vertical Purrsuit\Vertical Purrsuit\Cat.h(28,24): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'Fish.cpp')
+  
+C:\Users\pelke\OneDrive\Documents\GitHub\Vertical Purrsuit\Vertical Purrsuit\Cat.h(29,27): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'Fish.cpp')
+  
+C:\Users\pelke\OneDrive\Documents\GitHub\Vertical Purrsuit\Vertical Purrsuit\Cat.h(30,21): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'Fish.cpp')
+  
+C:\Users\pelke\OneDrive\Documents\GitHub\Vertical Purrsuit\Vertical Purrsuit\Fish.cpp(27,110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\pelke\OneDrive\Documents\GitHub\Vertical Purrsuit\Vertical Purrsuit\Fish.cpp(84,112): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Floor.cpp
+C:\Users\pelke\OneDrive\Documents\GitHub\Vertical Purrsuit\Vertical Purrsuit\Cat.h(28,24): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'Floor.cpp')
+  
+C:\Users\pelke\OneDrive\Documents\GitHub\Vertical Purrsuit\Vertical Purrsuit\Cat.h(29,27): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'Floor.cpp')
+  
+C:\Users\pelke\OneDrive\Documents\GitHub\Vertical Purrsuit\Vertical Purrsuit\Cat.h(30,21): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'Floor.cpp')
+  
+  Platform.cpp
+C:\Users\pelke\OneDrive\Documents\Visual Studio 2022\Projects\SFML-3.0\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'Platform.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Users\pelke\OneDrive\Documents\Visual Studio 2022\Projects\SFML-3.0\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+C:\Users\pelke\OneDrive\Documents\GitHub\Vertical Purrsuit\Vertical Purrsuit\Platform.cpp(34,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\pelke\OneDrive\Documents\GitHub\Vertical Purrsuit\Vertical Purrsuit\Platform.cpp(57,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Score.cpp
+C:\Users\pelke\OneDrive\Documents\GitHub\Vertical Purrsuit\Vertical Purrsuit\Cat.h(28,24): warning C4305: 'initializing': truncation from 'double' to 'const float'
   (compiling source file 'Score.cpp')
   
-C:\Users\pelke\OneDrive\Documents\GitHub\Vertical Purrsuit\Vertical Purrsuit\Cat.h(30,27): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\pelke\OneDrive\Documents\GitHub\Vertical Purrsuit\Vertical Purrsuit\Cat.h(29,27): warning C4305: 'initializing': truncation from 'double' to 'const float'
   (compiling source file 'Score.cpp')
   
-C:\Users\pelke\OneDrive\Documents\GitHub\Vertical Purrsuit\Vertical Purrsuit\Cat.h(31,21): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\pelke\OneDrive\Documents\GitHub\Vertical Purrsuit\Vertical Purrsuit\Cat.h(30,21): warning C4305: 'initializing': truncation from 'double' to 'const float'
   (compiling source file 'Score.cpp')
   
+  game.cpp
+C:\Users\pelke\OneDrive\Documents\Visual Studio 2022\Projects\SFML-3.0\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'game.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Users\pelke\OneDrive\Documents\Visual Studio 2022\Projects\SFML-3.0\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+C:\Users\pelke\OneDrive\Documents\GitHub\Vertical Purrsuit\Vertical Purrsuit\Cat.h(28,24): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'game.cpp')
+  
+C:\Users\pelke\OneDrive\Documents\GitHub\Vertical Purrsuit\Vertical Purrsuit\Cat.h(29,27): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'game.cpp')
+  
+C:\Users\pelke\OneDrive\Documents\GitHub\Vertical Purrsuit\Vertical Purrsuit\Cat.h(30,21): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'game.cpp')
+  
+  Generating Code...
+libdragonfly-x64-debug.lib(Event.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(Event.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(Vector.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(Vector.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(Object.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(Object.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(EventCollision.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(EventCollision.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(Manager.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(Manager.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(WorldManager.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(WorldManager.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(LogManager.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(LogManager.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(DisplayManager.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(DisplayManager.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(GameManager.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(GameManager.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(Sound.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(Sound.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(ResourceManager.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(ResourceManager.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(Box.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(Box.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(Sprite.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(Sprite.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(Animation.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(Animation.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(Music.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(Music.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(EventStep.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(EventStep.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(ObjectList.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(ObjectList.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(ViewObject.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(ViewObject.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(utility.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(utility.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(Path.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(Path.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(EventPath.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(EventPath.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(PathFind.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(PathFind.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(Shape.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(Shape.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(NetworkManager.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(NetworkManager.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(InputManager.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(InputManager.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(PathManager.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(PathManager.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(SceneGraph.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(SceneGraph.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(ObjectListIterator.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(ObjectListIterator.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(EventOut.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(EventOut.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(Config.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(Config.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(Clock.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(Clock.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(Frame.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(Frame.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(Line.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(Line.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(EventView.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(EventView.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(Particle.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(Particle.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(Debris.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(Debris.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(Firework.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(Firework.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(Circle.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(Circle.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(Precipitation.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(Precipitation.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(Splash.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(Splash.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(EventNetwork.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(EventNetwork.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(EventNetworkAccept.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(EventNetworkAccept.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(EventNetworkClose.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(EventNetworkClose.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(EventNetworkConnect.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(EventNetworkConnect.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(EventMouse.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(EventMouse.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(EventKeyboard.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(EventKeyboard.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(Grid.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(Grid.obj)' or at ''; linking object as if no debug info
+libdragonfly-x64-debug.lib(SplashDragonfly.obj) : warning LNK4099: PDB '' was not found with 'libdragonfly-x64-debug.lib(SplashDragonfly.obj)' or at ''; linking object as if no debug info
   Vertical Purrsuit.vcxproj -> C:\Users\pelke\OneDrive\Documents\GitHub\Vertical Purrsuit\Vertical Purrsuit\x64\Debug\Vertical Purrsuit.exe

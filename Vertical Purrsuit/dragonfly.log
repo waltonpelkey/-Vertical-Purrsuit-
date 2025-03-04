@@ -1,1249 +1,1803 @@
-03:37:21    0 ****************************************************
-03:37:21    0 ** Dragonfly version 4.21 **
-03:37:21    0 ** Game engine started **
-03:37:21    0 ****************************************************
-03:37:23   11 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
-03:37:23   16 GameManager::run(): Can't keep up! frame_time 33 ms, split 54 ms
-03:37:25   90 RM::loadSprite(): Error! Cannot open file 'sprites/bottomspikeplat-spr.txt'.
-03:37:25   90 RM::loadSprite(): Sprite 'bottom-spike-platform' not loaded.
-03:37:25   90 readData(): Error! Stop at line 20, never encountered '</BODY>'.
-03:37:25   90 RM::loadSprite(): Sprite 'spider-platform' NOT loaded.
-03:37:25   90 RM::loadSprite(): Error! Cannot open file 'sprites/topbottomspikesplat.txt'.
-03:37:25   90 RM::loadSprite(): Sprite 'top-bottom-spike-platform' not loaded.
-03:37:25   90 WorldManager::isValid(): Event df-out handled automatically.
-03:37:25   90 Manager(WorldManager)::registerInterest(): Event 'df-out' not valid for this Manager
-03:37:25   90 WorldManager::isValid(): Event df-collision handled automatically.
-03:37:25   90 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
-03:37:25   90 platform created with velocity 0 and difficulty 63
+22:11:50    0 ****************************************************
+22:11:50    0 ** Dragonfly version 4.21 **
+22:11:50    0 ** Game engine started **
+22:11:50    0 ****************************************************
+22:11:51    0 RM::loadSprite(): Error! Cannot open file 'sprites/bottomspikeplat-spr.txt'.
+22:11:51    0 RM::loadSprite(): Sprite 'bottom-spike-platform' not loaded.
+22:11:51    0 readData(): Error! Stop at line 20, never encountered '</BODY>'.
+22:11:51    0 RM::loadSprite(): Sprite 'spider-platform' NOT loaded.
+22:11:51    0 RM::loadSprite(): Error! Cannot open file 'sprites/topbottomspikesplat.txt'.
+22:11:51    0 RM::loadSprite(): Sprite 'top-bottom-spike-platform' not loaded.
+22:11:51    0 WorldManager::isValid(): Event df-out handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-out' not valid for this Manager
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 platform created with velocity 0 and difficulty 37
 
-03:37:25   90 platform created with velocity 0 and difficulty 2
+22:11:51    0 platform created with velocity 0 and difficulty 78
 
-03:37:25   90 platform created with velocity 0 and difficulty 42
+22:11:51    0 platform created with velocity 0 and difficulty 5
 
-03:37:25   90 platform created with velocity 0 and difficulty 82
+22:11:51    0 platform created with velocity 0 and difficulty 37
 
-03:37:25   90 platform created with velocity 0 and difficulty 80
+22:11:51    0 platform created with velocity 0 and difficulty 58
 
-03:37:25   90 platform created with velocity 0 and difficulty 19
+22:11:51    0 platform created with velocity 0 and difficulty 46
 
-03:37:25   90 platform created with velocity 0 and difficulty 45
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 platform created with velocity 0 and difficulty 13
 
-03:37:25   90 platform created with velocity 0 and difficulty 32
+22:11:51    0 platform created with velocity 0 and difficulty 43
 
-03:37:25   90 platform created with velocity 0 and difficulty 80
+22:11:51    0 platform created with velocity 0 and difficulty 52
 
-03:37:25   90 platform created with velocity 0 and difficulty 75
+22:11:51    0 platform created with velocity 0 and difficulty 16
 
-03:37:25   90 platform created with velocity 0 and difficulty 77
+22:11:51    0 platform created with velocity 0 and difficulty 29
 
-03:37:25   90 platform created with velocity 0 and difficulty 56
+22:11:51    0 platform created with velocity 0 and difficulty 12
 
-03:37:25   90 platform created with velocity 0 and difficulty 91
+22:11:51    0 platform created with velocity 0 and difficulty 6
 
-03:37:25   90 platform created with velocity 0 and difficulty 79
+22:11:51    0 platform created with velocity 0 and difficulty 91
 
-03:37:25   90 platform created with velocity 0 and difficulty 94
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (27.000000, 129.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 99
 
-03:37:25   90 platform created with velocity 0 and difficulty 97
+22:11:51    0 platform created with velocity 0 and difficulty 68
 
-03:37:25   90 platform created with velocity 0 and difficulty 61
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (71.000000, 149.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 69
 
-03:37:25   90 platform created with velocity 0 and difficulty 46
+22:11:51    0 platform created with velocity 0 and difficulty 21
 
-03:37:25   90 platform created with velocity 0 and difficulty 41
+22:11:51    0 platform created with velocity 0 and difficulty 36
 
-03:37:25   90 WorldManager::isValid(): Event df-collision handled automatically.
-03:37:25   90 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
-03:37:25   90 Fish spawned at (62.000000, 179.970001)
-03:37:25   90 platform created with velocity 0 and difficulty 4
+22:11:51    0 platform created with velocity 0 and difficulty 9
 
-03:37:25   90 platform created with velocity 0 and difficulty 94
+22:11:51    0 platform created with velocity 0 and difficulty 78
 
-03:37:25   90 platform created with velocity 0 and difficulty 1
+22:11:51    0 platform created with velocity 0 and difficulty 77
 
-03:37:25   90 platform created with velocity 0 and difficulty 5
+22:11:51    0 platform created with velocity 0 and difficulty 83
 
-03:37:25   90 platform created with velocity 0 and difficulty 63
+22:11:51    0 platform created with velocity 0 and difficulty 26
 
-03:37:25   90 platform created with velocity 0 and difficulty 8
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (6.000000, 229.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 54
 
-03:37:25   90 platform created with velocity 0 and difficulty 76
+22:11:51    0 platform created with velocity 0 and difficulty 85
 
-03:37:25   90 platform created with velocity 0 and difficulty 57
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (57.000000, 249.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 23
 
-03:37:25   90 platform created with velocity 0 and difficulty 91
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 platform created with velocity 0 and difficulty 59
 
-03:37:25   90 platform created with velocity 0 and difficulty 81
+22:11:51    0 platform created with velocity 0 and difficulty 0
 
-03:37:25   90 platform created with velocity 0 and difficulty 64
+22:11:51    0 platform created with velocity 0 and difficulty 50
 
-03:37:25   90 platform created with velocity 0 and difficulty 95
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (17.000000, 289.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 2
 
-03:37:25   90 WorldManager::isValid(): Event df-collision handled automatically.
-03:37:25   90 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
-03:37:25   90 Fish spawned at (17.000000, 299.970001)
-03:37:25   90 platform created with velocity 0 and difficulty 85
+22:11:51    0 platform created with velocity 0 and difficulty 36
 
-03:37:25   90 platform created with velocity 0 and difficulty 74
+22:11:51    0 platform created with velocity 0 and difficulty 98
 
-03:37:25   90 platform created with velocity 0 and difficulty 82
+22:11:51    0 platform created with velocity 0 and difficulty 18
 
-03:37:25   90 platform created with velocity 0 and difficulty 52
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (40.000000, 329.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 39
 
-03:37:25   90 platform created with velocity 0 and difficulty 33
+22:11:51    0 platform created with velocity 0 and difficulty 73
 
-03:37:25   90 platform created with velocity 0 and difficulty 32
+22:11:51    0 platform created with velocity 0 and difficulty 4
 
-03:37:25   90 platform created with velocity 0 and difficulty 88
+22:11:51    0 platform created with velocity 0 and difficulty 11
 
-03:37:25   90 platform created with velocity 0 and difficulty 80
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (33.000000, 369.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 10
 
-03:37:25   90 platform created with velocity 0 and difficulty 4
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (15.000000, 379.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 36
 
-03:37:25   90 platform created with velocity 0 and difficulty 29
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (21.000000, 389.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 58
 
-03:37:25   90 platform created with velocity 0 and difficulty 58
+22:11:51    0 platform created with velocity 0 and difficulty 30
 
-03:37:25   90 platform created with velocity 0 and difficulty 68
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (28.000000, 409.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 17
 
-03:37:25   90 platform created with velocity 0 and difficulty 83
+22:11:51    0 platform created with velocity 0 and difficulty 8
 
-03:37:25   90 platform created with velocity 0 and difficulty 29
+22:11:51    0 platform created with velocity 0 and difficulty 57
 
-03:37:25   90 platform created with velocity 0 and difficulty 31
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (32.000000, 439.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 75
 
-03:37:25   90 platform created with velocity 0 and difficulty 50
+22:11:51    0 platform created with velocity 0 and difficulty 71
 
-03:37:25   90 platform created with velocity 0 and difficulty 92
+22:11:51    0 platform created with velocity 0 and difficulty 79
 
-03:37:25   90 platform created with velocity 0 and difficulty 26
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (29.000000, 469.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 57
 
-03:37:25   90 WorldManager::isValid(): Event df-collision handled automatically.
-03:37:25   90 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
-03:37:25   90 Fish spawned at (34.000000, 479.970001)
-03:37:25   90 platform created with velocity 0 and difficulty 41
+22:11:51    0 platform created with velocity 0 and difficulty 99
 
-03:37:25   90 platform created with velocity 0 and difficulty 1
+22:11:51    0 platform created with velocity 0 and difficulty 43
 
-03:37:25   90 platform created with velocity 0 and difficulty 48
+22:11:51    0 platform created with velocity 0 and difficulty 10
 
-03:37:25   90 platform created with velocity 0 and difficulty 54
+22:11:51    0 platform created with velocity 0 and difficulty 19
 
-03:37:25   90 platform created with velocity 0 and difficulty 65
+22:11:51    0 platform created with velocity 0 and difficulty 20
 
-03:37:25   90 platform created with velocity 0 and difficulty 20
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (70.000000, 529.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 47
 
-03:37:25   90 platform created with velocity 0 and difficulty 73
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (41.000000, 539.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 76
 
-03:37:25   90 platform created with velocity 0 and difficulty 96
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (71.000000, 549.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 61
 
-03:37:25   90 platform created with velocity 0 and difficulty 50
+22:11:51    0 platform created with velocity 0 and difficulty 16
 
-03:37:25   90 platform created with velocity 0 and difficulty 99
+22:11:51    0 platform created with velocity 0 and difficulty 8
 
-03:37:25   90 platform created with velocity 0 and difficulty 5
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (24.000000, 579.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 47
 
-03:37:25   90 platform created with velocity 0 and difficulty 92
+22:11:51    0 platform created with velocity 0 and difficulty 38
 
-03:37:25   90 platform created with velocity 0 and difficulty 12
+22:11:51    0 platform created with velocity 0 and difficulty 41
 
-03:37:25   90 platform created with velocity 0 and difficulty 68
+22:11:51    0 platform created with velocity 0 and difficulty 63
 
-03:37:25   90 platform created with velocity 0 and difficulty 67
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (8.000000, 619.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 17
 
-03:37:25   90 platform created with velocity 0 and difficulty 31
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 platform created with velocity 0 and difficulty 23
 
-03:37:25   90 platform created with velocity 0 and difficulty 17
+22:11:51    0 platform created with velocity 0 and difficulty 46
 
-03:37:25   90 platform created with velocity 0 and difficulty 91
+22:11:51    0 platform created with velocity 0 and difficulty 76
 
-03:37:25   90 platform created with velocity 0 and difficulty 13
+22:11:51    0 platform created with velocity 0 and difficulty 62
 
-03:37:25   90 platform created with velocity 0 and difficulty 25
+22:11:51    0 platform created with velocity 0 and difficulty 17
 
-03:37:25   90 platform created with velocity 0 and difficulty 68
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (34.000000, 679.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 50
 
-03:37:25   90 platform created with velocity 0 and difficulty 34
+22:11:51    0 platform created with velocity 0 and difficulty 60
 
-03:37:25   90 platform created with velocity 0 and difficulty 30
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (25.000000, 699.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 12
 
-03:37:25   90 platform created with velocity 0 and difficulty 41
+22:11:51    0 platform created with velocity 0 and difficulty 99
 
-03:37:25   90 platform created with velocity 0 and difficulty 46
+22:11:51    0 platform created with velocity 0 and difficulty 91
 
-03:37:25   90 platform created with velocity 0 and difficulty 51
+22:11:51    0 platform created with velocity 0 and difficulty 86
 
-03:37:25   90 platform created with velocity 0 and difficulty 78
+22:11:51    0 platform created with velocity 0 and difficulty 21
 
-03:37:25   90 platform created with velocity 0 and difficulty 23
+22:11:51    0 platform created with velocity 0 and difficulty 99
 
-03:37:25   90 platform created with velocity 0 and difficulty 65
+22:11:51    0 platform created with velocity 0 and difficulty 3
 
-03:37:25   90 platform created with velocity 0 and difficulty 54
+22:11:51    0 platform created with velocity 0 and difficulty 65
 
-03:37:25   90 platform created with velocity 0 and difficulty 87
+22:11:51    0 platform created with velocity 0 and difficulty 86
 
-03:37:25   90 platform created with velocity 0 and difficulty 32
+22:11:51    0 platform created with velocity 0 and difficulty 93
 
-03:37:25   90 platform created with velocity 0 and difficulty 98
+22:11:51    0 platform created with velocity 0 and difficulty 23
 
-03:37:25   90 platform created with velocity 0 and difficulty 77
+22:11:51    0 platform created with velocity 0 and difficulty 3
 
-03:37:25   90 platform created with velocity 0 and difficulty 58
+22:11:51    0 platform created with velocity 0 and difficulty 28
 
-03:37:25   90 platform created with velocity 0 and difficulty 99
+22:11:51    0 platform created with velocity 0 and difficulty 63
 
-03:37:25   90 platform created with velocity 0 and difficulty 52
+22:11:51    0 platform created with velocity 0 and difficulty 37
 
-03:37:25   90 platform created with velocity 0 and difficulty 58
+22:11:51    0 platform created with velocity 0 and difficulty 44
 
-03:37:25   90 platform created with velocity 0 and difficulty 37
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (17.000000, 859.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 40
 
-03:37:25   90 platform created with velocity 0 and difficulty 86
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (53.000000, 869.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 5
 
-03:37:25   90 platform created with velocity 0 and difficulty 57
+22:11:51    0 platform created with velocity 0 and difficulty 33
 
-03:37:25   90 platform created with velocity 0 and difficulty 21
+22:11:51    0 platform created with velocity 0 and difficulty 38
 
-03:37:25   90 platform created with velocity 0 and difficulty 58
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (18.000000, 899.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 55
 
-03:37:25   90 platform created with velocity 0 and difficulty 55
+22:11:51    0 platform created with velocity 0 and difficulty 25
 
-03:37:25   90 platform created with velocity 0 and difficulty 22
+22:11:51    0 platform created with velocity 0 and difficulty 78
 
-03:37:25   90 platform created with velocity 0 and difficulty 86
+22:11:51    0 platform created with velocity 0 and difficulty 9
 
-03:37:25   90 WorldManager::isValid(): Event df-collision handled automatically.
-03:37:25   90 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
-03:37:25   90 Fish spawned at (57.000000, 939.969971)
-03:37:25   90 platform created with velocity 0 and difficulty 13
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (26.000000, 939.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 34
 
-03:37:25   90 platform created with velocity 0 and difficulty 92
+22:11:51    0 platform created with velocity 0 and difficulty 11
 
-03:37:25   90 platform created with velocity 0 and difficulty 27
+22:11:51    0 platform created with velocity 0 and difficulty 50
 
-03:37:25   90 platform created with velocity 0 and difficulty 84
+22:11:51    0 platform created with velocity 0 and difficulty 24
 
-03:37:25   90 platform created with velocity 0 and difficulty 58
+22:11:51    0 platform created with velocity 0 and difficulty 79
 
-03:37:25   90 platform created with velocity 0 and difficulty 96
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (65.000000, 989.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 8
 
-03:37:25   90 platform created with velocity 0 and difficulty 49
+22:11:51    0 platform created with velocity 0 and difficulty 70
 
-03:37:25   90 platform created with velocity 0 and difficulty 78
+22:11:51    0 platform created with velocity 0 and difficulty 79
 
-03:37:25   90 platform created with velocity 0 and difficulty 31
+22:11:51    0 platform created with velocity 0 and difficulty 27
 
-03:37:25   90 platform created with velocity 0 and difficulty 24
+22:11:51    0 platform created with velocity 0 and difficulty 7
 
-03:37:25   90 platform created with velocity 0 and difficulty 22
+22:11:51    0 platform created with velocity 0 and difficulty 1
 
-03:37:25   90 platform created with velocity 0 and difficulty 45
+22:11:51    0 platform created with velocity 0 and difficulty 40
 
-03:37:25   90 platform created with velocity 0 and difficulty 67
+22:11:51    0 platform created with velocity 0 and difficulty 63
 
-03:37:25   90 platform created with velocity 0 and difficulty 41
+22:11:51    0 platform created with velocity 0 and difficulty 54
 
-03:37:25   90 platform created with velocity 0 and difficulty 64
+22:11:51    0 platform created with velocity 0 and difficulty 79
 
-03:37:25   90 platform created with velocity 0 and difficulty 87
+22:11:51    0 platform created with velocity 0 and difficulty 15
 
-03:37:25   90 platform created with velocity 0 and difficulty 22
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (46.000000, 1099.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 76
 
-03:37:25   90 platform created with velocity 0 and difficulty 27
+22:11:51    0 platform created with velocity 0 and difficulty 56
 
-03:37:25   90 platform created with velocity 0 and difficulty 97
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (10.000000, 1119.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 13
 
-03:37:25   90 platform created with velocity 0 and difficulty 79
+22:11:51    0 platform created with velocity 0 and difficulty 82
 
-03:37:25   90 platform created with velocity 0 and difficulty 40
+22:11:51    0 platform created with velocity 0 and difficulty 47
 
-03:37:25   90 platform created with velocity 0 and difficulty 50
+22:11:51    0 platform created with velocity 0 and difficulty 42
 
-03:37:25   90 platform created with velocity 0 and difficulty 99
+22:11:51    0 platform created with velocity 0 and difficulty 29
 
-03:37:25   90 platform created with velocity 0 and difficulty 98
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (43.000000, 1169.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 37
 
-03:37:25   90 platform created with velocity 0 and difficulty 39
+22:11:51    0 platform created with velocity 0 and difficulty 44
 
-03:37:25   90 platform created with velocity 0 and difficulty 59
+22:11:51    0 platform created with velocity 0 and difficulty 6
 
-03:37:25   90 platform created with velocity 0 and difficulty 57
+22:11:51    0 platform created with velocity 0 and difficulty 68
 
-03:37:25   90 platform created with velocity 0 and difficulty 77
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 platform created with velocity 0 and difficulty 32
 
-03:37:25   90 platform created with velocity 0 and difficulty 26
+22:11:51    0 platform created with velocity 0 and difficulty 34
 
-03:37:25   90 platform created with velocity 0 and difficulty 2
+22:11:51    0 platform created with velocity 0 and difficulty 30
 
-03:37:25   90 platform created with velocity 0 and difficulty 77
+22:11:51    0 platform created with velocity 0 and difficulty 70
 
-03:37:25   90 platform created with velocity 0 and difficulty 20
+22:11:51    0 platform created with velocity 0 and difficulty 10
 
-03:37:25   90 platform created with velocity 0 and difficulty 7
+22:11:51    0 platform created with velocity 0 and difficulty 29
 
-03:37:25   90 platform created with velocity 0 and difficulty 30
+22:11:51    0 platform created with velocity 0 and difficulty 50
 
-03:37:25   90 platform created with velocity 0 and difficulty 14
+22:11:51    0 platform created with velocity 0 and difficulty 20
 
-03:37:25   90 platform created with velocity 0 and difficulty 25
+22:11:51    0 platform created with velocity 0 and difficulty 31
 
-03:37:25   90 platform created with velocity 0 and difficulty 76
+22:11:51    0 platform created with velocity 0 and difficulty 17
 
-03:37:25   90 platform created with velocity 0 and difficulty 49
+22:11:51    0 platform created with velocity 0 and difficulty 87
 
-03:37:25   90 platform created with velocity 0 and difficulty 80
+22:11:51    0 platform created with velocity 0 and difficulty 78
 
-03:37:25   90 platform created with velocity 0 and difficulty 32
+22:11:51    0 platform created with velocity 0 and difficulty 61
 
-03:37:25   90 platform created with velocity 0 and difficulty 89
+22:11:51    0 platform created with velocity 0 and difficulty 51
 
-03:37:25   90 platform created with velocity 0 and difficulty 97
+22:11:51    0 platform created with velocity 0 and difficulty 48
 
-03:37:25   90 WorldManager::isValid(): Event df-collision handled automatically.
-03:37:25   90 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
-03:37:25   90 Fish spawned at (18.000000, 1359.969971)
-03:37:25   90 platform created with velocity 0 and difficulty 59
+22:11:51    0 platform created with velocity 0 and difficulty 0
 
-03:37:25   90 platform created with velocity 0 and difficulty 74
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (37.000000, 1369.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 65
 
-03:37:25   90 platform created with velocity 0 and difficulty 48
+22:11:51    0 platform created with velocity 0 and difficulty 97
 
-03:37:25   90 platform created with velocity 0 and difficulty 11
+22:11:51    0 platform created with velocity 0 and difficulty 9
 
-03:37:25   90 platform created with velocity 0 and difficulty 13
+22:11:51    0 platform created with velocity 0 and difficulty 89
 
-03:37:25   90 platform created with velocity 0 and difficulty 80
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 platform created with velocity 0 and difficulty 69
 
-03:37:25   90 platform created with velocity 0 and difficulty 97
+22:11:51    0 platform created with velocity 0 and difficulty 44
 
-03:37:25   90 platform created with velocity 0 and difficulty 74
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (55.000000, 1429.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 28
 
-03:37:25   90 platform created with velocity 0 and difficulty 63
+22:11:51    0 platform created with velocity 0 and difficulty 2
 
-03:37:25   90 platform created with velocity 0 and difficulty 87
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (8.000000, 1449.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 44
 
-03:37:25   90 platform created with velocity 0 and difficulty 76
+22:11:51    0 platform created with velocity 0 and difficulty 43
 
-03:37:25   90 platform created with velocity 0 and difficulty 23
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (55.000000, 1469.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 39
 
-03:37:25   90 platform created with velocity 0 and difficulty 73
+22:11:51    0 platform created with velocity 0 and difficulty 27
 
-03:37:25   90 platform created with velocity 0 and difficulty 72
+22:11:51    0 platform created with velocity 0 and difficulty 44
 
-03:37:25   90 platform created with velocity 0 and difficulty 56
+22:11:51    0 platform created with velocity 0 and difficulty 51
 
-03:37:25   90 platform created with velocity 0 and difficulty 11
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (14.000000, 1509.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 80
 
-03:37:25   90 platform created with velocity 0 and difficulty 61
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (69.000000, 1519.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 50
 
-03:37:25   90 platform created with velocity 0 and difficulty 29
+22:11:51    0 platform created with velocity 0 and difficulty 15
 
-03:37:25   90 platform created with velocity 0 and difficulty 97
+22:11:51    0 platform created with velocity 0 and difficulty 99
 
-03:37:25   90 platform created with velocity 0 and difficulty 61
+22:11:51    0 platform created with velocity 0 and difficulty 87
 
-03:37:25   90 platform created with velocity 0 and difficulty 57
+22:11:51    0 platform created with velocity 0 and difficulty 33
 
-03:37:25   90 platform created with velocity 0 and difficulty 62
+22:11:51    0 platform created with velocity 0 and difficulty 89
 
-03:37:25   90 platform created with velocity 0 and difficulty 61
+22:11:51    0 platform created with velocity 0 and difficulty 30
 
-03:37:25   90 platform created with velocity 0 and difficulty 29
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (51.000000, 1589.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 88
 
-03:37:25   90 platform created with velocity 0 and difficulty 65
+22:11:51    0 platform created with velocity 0 and difficulty 31
 
-03:37:25   90 platform created with velocity 0 and difficulty 12
+22:11:51    0 platform created with velocity 0 and difficulty 89
 
-03:37:25   90 platform created with velocity 0 and difficulty 51
+22:11:51    0 platform created with velocity 0 and difficulty 46
 
-03:37:25   90 platform created with velocity 0 and difficulty 12
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (11.000000, 1629.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 16
 
-03:37:25   90 WorldManager::isValid(): Event df-collision handled automatically.
-03:37:25   90 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
-03:37:25   90 Fish spawned at (14.000000, 1639.969971)
-03:37:25   90 platform created with velocity 0 and difficulty 52
+22:11:51    0 platform created with velocity 0 and difficulty 20
 
-03:37:25   90 platform created with velocity 0 and difficulty 40
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (22.000000, 1649.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 67
 
-03:37:25   90 platform created with velocity 0 and difficulty 73
+22:11:51    0 platform created with velocity 0 and difficulty 67
 
-03:37:25   90 platform created with velocity 0 and difficulty 62
+22:11:51    0 platform created with velocity 0 and difficulty 69
 
-03:37:25   90 platform created with velocity 0 and difficulty 4
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 platform created with velocity 0 and difficulty 52
 
-03:37:25   90 platform created with velocity 0 and difficulty 99
+22:11:51    0 platform created with velocity 0 and difficulty 56
 
-03:37:25   90 platform created with velocity 0 and difficulty 60
+22:11:51    0 platform created with velocity 0 and difficulty 90
 
-03:37:25   90 platform created with velocity 0 and difficulty 56
+22:11:51    0 platform created with velocity 0 and difficulty 47
 
-03:37:25   90 platform created with velocity 0 and difficulty 23
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 platform created with velocity 0 and difficulty 22
 
-03:37:25   90 platform created with velocity 0 and difficulty 85
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (35.000000, 1729.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 66
 
-03:37:25   90 WorldManager::isValid(): Event df-collision handled automatically.
-03:37:25   90 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
-03:37:25   90 Fish spawned at (65.000000, 1739.969971)
-03:37:25   90 platform created with velocity 0 and difficulty 0
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (60.000000, 1739.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 39
 
-03:37:25   90 platform created with velocity 0 and difficulty 11
+22:11:51    0 platform created with velocity 0 and difficulty 7
 
-03:37:25   90 platform created with velocity 0 and difficulty 8
+22:11:51    0 platform created with velocity 0 and difficulty 80
 
-03:37:25   90 platform created with velocity 0 and difficulty 79
+22:11:51    0 platform created with velocity 0 and difficulty 71
 
-03:37:25   90 platform created with velocity 0 and difficulty 16
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 platform created with velocity 0 and difficulty 20
 
-03:37:25   90 platform created with velocity 0 and difficulty 26
+22:11:51    0 platform created with velocity 0 and difficulty 8
 
-03:37:25   90 platform created with velocity 0 and difficulty 48
+22:11:51    0 platform created with velocity 0 and difficulty 82
 
-03:37:25   90 platform created with velocity 0 and difficulty 1
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (51.000000, 1809.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 3
 
-03:37:25   90 platform created with velocity 0 and difficulty 18
+22:11:51    0 platform created with velocity 0 and difficulty 89
 
-03:37:25   90 platform created with velocity 0 and difficulty 78
+22:11:51    0 platform created with velocity 0 and difficulty 85
 
-03:37:25   90 platform created with velocity 0 and difficulty 94
+22:11:51    0 platform created with velocity 0 and difficulty 8
 
-03:37:25   90 platform created with velocity 0 and difficulty 4
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (50.000000, 1849.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 23
 
-03:37:25   90 platform created with velocity 0 and difficulty 32
+22:11:51    0 platform created with velocity 0 and difficulty 91
 
-03:37:25   90 platform created with velocity 0 and difficulty 51
+22:11:51    0 platform created with velocity 0 and difficulty 43
 
-03:37:25   90 platform created with velocity 0 and difficulty 12
+22:11:51    0 platform created with velocity 0 and difficulty 91
 
-03:37:25   90 platform created with velocity 0 and difficulty 24
+22:11:51    0 platform created with velocity 0 and difficulty 58
 
-03:37:25   90 platform created with velocity 0 and difficulty 43
+22:11:51    0 platform created with velocity 0 and difficulty 57
 
-03:37:25   90 platform created with velocity 0 and difficulty 17
+22:11:51    0 platform created with velocity 0 and difficulty 37
 
-03:37:25   90 platform created with velocity 0 and difficulty 46
+22:11:51    0 platform created with velocity 0 and difficulty 34
 
-03:37:25   90 platform created with velocity 0 and difficulty 77
+22:11:51    0 platform created with velocity 0 and difficulty 86
 
-03:37:25   90 platform created with velocity 0 and difficulty 75
+22:11:51    0 platform created with velocity 0 and difficulty 41
 
-03:37:25   90 platform created with velocity 0 and difficulty 77
+22:11:51    0 platform created with velocity 0 and difficulty 82
 
-03:37:25   90 platform created with velocity 0 and difficulty 46
+22:11:51    0 platform created with velocity 0 and difficulty 81
 
-03:37:25   90 platform created with velocity 0 and difficulty 67
+22:11:51    0 platform created with velocity 0 and difficulty 60
 
-03:37:25   90 platform created with velocity 0 and difficulty 11
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (10.000000, 1979.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 93
 
-03:37:25   90 platform created with velocity 0 and difficulty 61
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (10.000000, 1989.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 23
 
-03:37:25   90 platform created with velocity 0 and difficulty 94
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (67.000000, 1999.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 58
 
-03:37:25   90 platform created with velocity 0 and difficulty 51
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 platform created with velocity 0 and difficulty 36
 
-03:37:25   90 platform created with velocity 0 and difficulty 50
+22:11:51    0 platform created with velocity 0 and difficulty 74
 
-03:37:25   90 platform created with velocity 0 and difficulty 98
+22:11:51    0 platform created with velocity 0 and difficulty 34
 
-03:37:25   90 platform created with velocity 0 and difficulty 43
+22:11:51    0 platform created with velocity 0 and difficulty 73
 
-03:37:25   90 platform created with velocity 0 and difficulty 7
+22:11:51    0 platform created with velocity 0 and difficulty 47
 
-03:37:25   90 WorldManager::isValid(): Event df-collision handled automatically.
-03:37:25   90 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
-03:37:25   90 Fish spawned at (42.000000, 2059.969971)
-03:37:25   90 platform created with velocity 0 and difficulty 11
+22:11:51    0 platform created with velocity 0 and difficulty 82
 
-03:37:25   90 platform created with velocity 0 and difficulty 20
+22:11:51    0 platform created with velocity 0 and difficulty 31
 
-03:37:25   90 platform created with velocity 0 and difficulty 55
+22:11:51    0 platform created with velocity 0 and difficulty 25
 
-03:37:25   90 platform created with velocity 0 and difficulty 45
+22:11:51    0 platform created with velocity 0 and difficulty 78
 
-03:37:25   90 platform created with velocity 0 and difficulty 90
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (58.000000, 2099.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 11
 
-03:37:25   90 platform created with velocity 0 and difficulty 66
+22:11:51    0 platform created with velocity 0 and difficulty 9
 
-03:37:25   90 platform created with velocity 0 and difficulty 85
+22:11:51    0 platform created with velocity 0 and difficulty 83
 
-03:37:25   90 platform created with velocity 0 and difficulty 88
+22:11:51    0 platform created with velocity 0 and difficulty 79
 
-03:37:25   90 platform created with velocity 0 and difficulty 82
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 platform created with velocity 0 and difficulty 44
 
-03:37:25   90 platform created with velocity 0 and difficulty 7
+22:11:51    0 platform created with velocity 0 and difficulty 2
 
-03:37:25   90 platform created with velocity 0 and difficulty 31
+22:11:51    0 platform created with velocity 0 and difficulty 29
 
-03:37:25   90 platform created with velocity 0 and difficulty 35
+22:11:51    0 platform created with velocity 0 and difficulty 75
 
-03:37:25   90 WorldManager::isValid(): Event df-collision handled automatically.
-03:37:25   90 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
-03:37:25   90 Fish spawned at (16.000000, 2179.969971)
-03:37:25   90 platform created with velocity 0 and difficulty 61
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (6.000000, 2179.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 24
 
-03:37:25   90 platform created with velocity 0 and difficulty 57
+22:11:51    0 platform created with velocity 0 and difficulty 59
 
-03:37:25   90 platform created with velocity 0 and difficulty 87
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 platform created with velocity 0 and difficulty 9
 
-03:37:25   90 platform created with velocity 0 and difficulty 71
+22:11:51    0 platform created with velocity 0 and difficulty 33
 
-03:37:25   90 platform created with velocity 0 and difficulty 13
+22:11:51    0 platform created with velocity 0 and difficulty 86
 
-03:37:25   90 platform created with velocity 0 and difficulty 33
+22:11:51    0 platform created with velocity 0 and difficulty 95
 
-03:37:25   90 platform created with velocity 0 and difficulty 5
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 platform created with velocity 0 and difficulty 14
 
-03:37:25   90 platform created with velocity 0 and difficulty 58
+22:11:51    0 platform created with velocity 0 and difficulty 66
 
-03:37:25   90 platform created with velocity 0 and difficulty 45
+22:11:51    0 platform created with velocity 0 and difficulty 89
 
-03:37:25   90 platform created with velocity 0 and difficulty 95
+22:11:51    0 platform created with velocity 0 and difficulty 75
 
-03:37:25   90 platform created with velocity 0 and difficulty 81
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (57.000000, 2279.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 55
 
-03:37:25   90 platform created with velocity 0 and difficulty 24
+22:11:51    0 platform created with velocity 0 and difficulty 93
 
-03:37:25   90 platform created with velocity 0 and difficulty 92
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (54.000000, 2299.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 79
 
-03:37:25   90 platform created with velocity 0 and difficulty 15
+22:11:51    0 platform created with velocity 0 and difficulty 2
 
-03:37:25   90 platform created with velocity 0 and difficulty 45
+22:11:51    0 platform created with velocity 0 and difficulty 59
 
-03:37:25   90 platform created with velocity 0 and difficulty 30
+22:11:51    0 platform created with velocity 0 and difficulty 51
 
-03:37:25   90 platform created with velocity 0 and difficulty 40
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (69.000000, 2339.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 66
 
-03:37:25   90 platform created with velocity 0 and difficulty 47
+22:11:51    0 platform created with velocity 0 and difficulty 58
 
-03:37:25   90 platform created with velocity 0 and difficulty 21
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (14.000000, 2359.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 88
 
-03:37:25   90 platform created with velocity 0 and difficulty 69
+22:11:51    0 platform created with velocity 0 and difficulty 46
 
-03:37:25   90 platform created with velocity 0 and difficulty 70
+22:11:51    0 platform created with velocity 0 and difficulty 90
 
-03:37:25   90 WorldManager::isValid(): Event df-collision handled automatically.
-03:37:25   90 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
-03:37:25   90 Fish spawned at (61.000000, 2389.969971)
-03:37:25   90 platform created with velocity 0 and difficulty 66
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (47.000000, 2389.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 77
 
-03:37:25   90 platform created with velocity 0 and difficulty 45
+22:11:51    0 platform created with velocity 0 and difficulty 16
 
-03:37:25   90 platform created with velocity 0 and difficulty 5
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (70.000000, 2409.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 92
 
-03:37:25   90 platform created with velocity 0 and difficulty 1
+22:11:51    0 platform created with velocity 0 and difficulty 68
 
-03:37:25   90 platform created with velocity 0 and difficulty 76
+22:11:51    0 platform created with velocity 0 and difficulty 73
 
-03:37:25   90 platform created with velocity 0 and difficulty 22
+22:11:51    0 platform created with velocity 0 and difficulty 21
 
-03:37:25   90 platform created with velocity 0 and difficulty 93
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (42.000000, 2449.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 67
 
-03:37:25   90 platform created with velocity 0 and difficulty 33
+22:11:51    0 platform created with velocity 0 and difficulty 44
 
-03:37:25   90 platform created with velocity 0 and difficulty 96
+22:11:51    0 platform created with velocity 0 and difficulty 41
 
-03:37:25   90 platform created with velocity 0 and difficulty 60
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (60.000000, 2479.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 44
 
-03:37:25   90 platform created with velocity 0 and difficulty 57
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (57.000000, 2489.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 90
 
-03:37:25   90 platform created with velocity 0 and difficulty 93
+22:11:51    0 platform created with velocity 0 and difficulty 38
 
-03:37:25   90 platform created with velocity 0 and difficulty 55
+22:11:51    0 platform created with velocity 0 and difficulty 57
 
-03:37:25   90 platform created with velocity 0 and difficulty 29
+22:11:51    0 platform created with velocity 0 and difficulty 20
 
-03:37:25   90 platform created with velocity 0 and difficulty 86
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (22.000000, 2529.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 93
 
-03:37:25   90 platform created with velocity 0 and difficulty 52
+22:11:51    0 platform created with velocity 0 and difficulty 93
 
-03:37:25   90 platform created with velocity 0 and difficulty 94
+22:11:51    0 platform created with velocity 0 and difficulty 43
 
-03:37:25   90 platform created with velocity 0 and difficulty 76
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 platform created with velocity 0 and difficulty 62
 
-03:37:25   90 platform created with velocity 0 and difficulty 29
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (18.000000, 2569.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 80
 
-03:37:25   90 platform created with velocity 0 and difficulty 99
+22:11:51    0 platform created with velocity 0 and difficulty 62
 
-03:37:25   90 platform created with velocity 0 and difficulty 15
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (66.000000, 2589.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 11
 
-03:37:25   90 platform created with velocity 0 and difficulty 39
+22:11:51    0 platform created with velocity 0 and difficulty 17
 
-03:37:25   90 platform created with velocity 0 and difficulty 48
+22:11:51    0 platform created with velocity 0 and difficulty 91
 
-03:37:25   90 platform created with velocity 0 and difficulty 22
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (9.000000, 2619.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 39
 
-03:37:25   90 platform created with velocity 0 and difficulty 23
+22:11:51    0 platform created with velocity 0 and difficulty 15
 
-03:37:25   90 platform created with velocity 0 and difficulty 52
+22:11:51    0 platform created with velocity 0 and difficulty 78
 
-03:37:25   90 platform created with velocity 0 and difficulty 5
+22:11:51    0 platform created with velocity 0 and difficulty 25
 
-03:37:25   90 platform created with velocity 0 and difficulty 89
+22:11:51    0 platform created with velocity 0 and difficulty 4
 
-03:37:25   90 platform created with velocity 0 and difficulty 48
+22:11:51    0 platform created with velocity 0 and difficulty 40
 
-03:37:25   90 platform created with velocity 0 and difficulty 32
+22:11:51    0 platform created with velocity 0 and difficulty 95
 
-03:37:25   90 platform created with velocity 0 and difficulty 83
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (19.000000, 2689.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 6
 
-03:37:25   90 platform created with velocity 0 and difficulty 2
+22:11:51    0 platform created with velocity 0 and difficulty 79
 
-03:37:25   90 platform created with velocity 0 and difficulty 52
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (59.000000, 2709.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 2
 
-03:37:25   90 platform created with velocity 0 and difficulty 2
+22:11:51    0 platform created with velocity 0 and difficulty 60
 
-03:37:25   90 platform created with velocity 0 and difficulty 49
+22:11:51    0 platform created with velocity 0 and difficulty 68
 
-03:37:25   90 platform created with velocity 0 and difficulty 89
+22:11:51    0 platform created with velocity 0 and difficulty 15
 
-03:37:25   90 platform created with velocity 0 and difficulty 85
+22:11:51    0 platform created with velocity 0 and difficulty 46
 
-03:37:25   90 platform created with velocity 0 and difficulty 23
+22:11:51    0 platform created with velocity 0 and difficulty 3
 
-03:37:25   90 WorldManager::isValid(): Event df-collision handled automatically.
-03:37:25   90 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
-03:37:25   90 Fish spawned at (8.000000, 2769.969971)
-03:37:25   90 platform created with velocity 0 and difficulty 61
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (56.000000, 2769.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 21
 
-03:37:25   90 platform created with velocity 0 and difficulty 37
+22:11:51    0 platform created with velocity 0 and difficulty 77
 
-03:37:25   90 platform created with velocity 0 and difficulty 47
+22:11:51    0 platform created with velocity 0 and difficulty 65
 
-03:37:25   90 platform created with velocity 0 and difficulty 59
+22:11:51    0 platform created with velocity 0 and difficulty 70
 
-03:37:25   90 platform created with velocity 0 and difficulty 6
+22:11:51    0 platform created with velocity 0 and difficulty 31
 
-03:37:25   90 platform created with velocity 0 and difficulty 12
+22:11:51    0 platform created with velocity 0 and difficulty 62
 
-03:37:25   90 platform created with velocity 0 and difficulty 85
+22:11:51    0 platform created with velocity 0 and difficulty 72
 
-03:37:25   90 WorldManager::isValid(): Event df-collision handled automatically.
-03:37:25   90 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
-03:37:25   90 Fish spawned at (18.000000, 2839.969971)
-03:37:25   90 platform created with velocity 0 and difficulty 48
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (37.000000, 2839.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 31
 
-03:37:25   90 platform created with velocity 0 and difficulty 41
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 platform created with velocity 0 and difficulty 83
 
-03:37:25   90 platform created with velocity 0 and difficulty 34
+22:11:51    0 platform created with velocity 0 and difficulty 9
 
-03:37:25   90 platform created with velocity 0 and difficulty 65
+22:11:51    0 platform created with velocity 0 and difficulty 80
 
-03:37:25   90 platform created with velocity 0 and difficulty 4
+22:11:51    0 platform created with velocity 0 and difficulty 64
 
-03:37:25   90 platform created with velocity 0 and difficulty 66
+22:11:51    0 platform created with velocity 0 and difficulty 9
 
-03:37:25   90 platform created with velocity 0 and difficulty 18
+22:11:51    0 platform created with velocity 0 and difficulty 51
 
-03:37:25   90 platform created with velocity 0 and difficulty 77
+22:11:51    0 platform created with velocity 0 and difficulty 76
 
-03:37:25   90 platform created with velocity 0 and difficulty 0
+22:11:51    0 platform created with velocity 0 and difficulty 53
 
-03:37:25   90 platform created with velocity 0 and difficulty 62
+22:11:51    0 platform created with velocity 0 and difficulty 30
 
-03:37:25   90 platform created with velocity 0 and difficulty 3
+22:11:51    0 platform created with velocity 0 and difficulty 73
 
-03:37:25   90 platform created with velocity 0 and difficulty 99
+22:11:51    0 platform created with velocity 0 and difficulty 55
 
-03:37:25   90 platform created with velocity 0 and difficulty 31
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (27.000000, 2959.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 32
 
-03:37:25   90 platform created with velocity 0 and difficulty 50
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (63.000000, 2969.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 13
 
-03:37:25   90 platform created with velocity 0 and difficulty 1
+22:11:51    0 platform created with velocity 0 and difficulty 46
 
-03:37:25   90 platform created with velocity 0 and difficulty 69
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (7.000000, 2989.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 53
 
-03:37:25   90 platform created with velocity 0 and difficulty 21
+22:11:51    0 platform created with velocity 0 and difficulty 68
 
-03:37:25   90 platform created with velocity 0 and difficulty 46
+22:11:51    0 platform created with velocity 0 and difficulty 13
 
-03:37:25   90 platform created with velocity 0 and difficulty 93
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (26.000000, 3019.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 13
 
-03:37:25   90 platform created with velocity 0 and difficulty 68
+22:11:51    0 platform created with velocity 0 and difficulty 9
 
-03:37:25   90 platform created with velocity 0 and difficulty 97
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (69.000000, 3039.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 53
 
-03:37:25   90 platform created with velocity 0 and difficulty 75
+22:11:51    0 platform created with velocity 0 and difficulty 13
 
-03:37:25   90 platform created with velocity 0 and difficulty 37
+22:11:51    0 platform created with velocity 0 and difficulty 73
 
-03:37:25   90 WorldManager::isValid(): Event df-collision handled automatically.
-03:37:25   90 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
-03:37:25   90 Fish spawned at (7.000000, 3069.969971)
-03:37:25   90 platform created with velocity 0 and difficulty 47
+22:11:51    0 platform created with velocity 0 and difficulty 75
 
-03:37:25   90 platform created with velocity 0 and difficulty 20
+22:11:51    0 platform created with velocity 0 and difficulty 10
 
-03:37:25   90 platform created with velocity 0 and difficulty 23
+22:11:51    0 platform created with velocity 0 and difficulty 98
 
-03:37:25   90 platform created with velocity 0 and difficulty 60
+22:11:51    0 platform created with velocity 0 and difficulty 6
 
-03:37:25   90 platform created with velocity 0 and difficulty 13
+22:11:51    0 platform created with velocity 0 and difficulty 69
 
-03:37:25   90 platform created with velocity 0 and difficulty 46
+22:11:51    0 platform created with velocity 0 and difficulty 92
 
-03:37:25   90 platform created with velocity 0 and difficulty 27
+22:11:51    0 platform created with velocity 0 and difficulty 54
 
-03:37:25   90 platform created with velocity 0 and difficulty 39
+22:11:51    0 platform created with velocity 0 and difficulty 89
 
-03:37:25   90 platform created with velocity 0 and difficulty 15
+22:11:51    0 platform created with velocity 0 and difficulty 64
 
-03:37:25   90 WorldManager::isValid(): Event df-collision handled automatically.
-03:37:25   90 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
-03:37:25   90 Fish spawned at (44.000000, 3159.969971)
-03:37:25   90 platform created with velocity 0 and difficulty 52
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (28.000000, 3159.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 16
 
-03:37:25   90 platform created with velocity 0 and difficulty 93
+22:11:51    0 platform created with velocity 0 and difficulty 73
 
-03:37:25   90 platform created with velocity 0 and difficulty 88
+22:11:51    0 platform created with velocity 0 and difficulty 57
 
-03:37:25   90 platform created with velocity 0 and difficulty 84
+22:11:51    0 platform created with velocity 0 and difficulty 14
 
-03:37:25   90 platform created with velocity 0 and difficulty 55
+22:11:51    0 platform created with velocity 0 and difficulty 43
 
-03:37:25   90 platform created with velocity 0 and difficulty 15
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (50.000000, 3209.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 74
 
-03:37:25   90 platform created with velocity 0 and difficulty 23
+22:11:51    0 platform created with velocity 0 and difficulty 36
 
-03:37:25   90 platform created with velocity 0 and difficulty 53
+22:11:51    0 platform created with velocity 0 and difficulty 42
 
-03:37:25   90 platform created with velocity 0 and difficulty 82
+22:11:51    0 platform created with velocity 0 and difficulty 3
 
-03:37:25   90 platform created with velocity 0 and difficulty 38
+22:11:51    0 platform created with velocity 0 and difficulty 29
 
-03:37:25   90 platform created with velocity 0 and difficulty 58
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (14.000000, 3259.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 2
 
-03:37:25   90 platform created with velocity 0 and difficulty 97
+22:11:51    0 platform created with velocity 0 and difficulty 36
 
-03:37:25   90 platform created with velocity 0 and difficulty 11
+22:11:51    0 platform created with velocity 0 and difficulty 1
 
-03:37:25   90 platform created with velocity 0 and difficulty 8
+22:11:51    0 platform created with velocity 0 and difficulty 70
 
-03:37:25   90 platform created with velocity 0 and difficulty 52
+22:11:51    0 platform created with velocity 0 and difficulty 85
 
-03:37:25   90 platform created with velocity 0 and difficulty 41
+22:11:51    0 platform created with velocity 0 and difficulty 34
 
-03:37:25   90 platform created with velocity 0 and difficulty 63
+22:11:51    0 platform created with velocity 0 and difficulty 76
 
-03:37:25   90 platform created with velocity 0 and difficulty 9
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (68.000000, 3329.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 92
 
-03:37:25   90 platform created with velocity 0 and difficulty 52
+22:11:51    0 platform created with velocity 0 and difficulty 96
 
-03:37:25   90 platform created with velocity 0 and difficulty 72
+22:11:51    0 platform created with velocity 0 and difficulty 34
 
-03:37:25   90 platform created with velocity 0 and difficulty 50
+22:11:51    0 platform created with velocity 0 and difficulty 13
 
-03:37:25   90 platform created with velocity 0 and difficulty 78
+22:11:51    0 platform created with velocity 0 and difficulty 66
 
-03:37:25   90 platform created with velocity 0 and difficulty 71
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (51.000000, 3379.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 89
 
-03:37:25   90 platform created with velocity 0 and difficulty 46
+22:11:51    0 platform created with velocity 0 and difficulty 28
 
-03:37:25   90 platform created with velocity 0 and difficulty 8
+22:11:51    0 platform created with velocity 0 and difficulty 67
 
-03:37:25   90 platform created with velocity 0 and difficulty 31
+22:11:51    0 platform created with velocity 0 and difficulty 15
 
-03:37:25   90 platform created with velocity 0 and difficulty 53
+22:11:51    0 platform created with velocity 0 and difficulty 65
 
-03:37:25   90 platform created with velocity 0 and difficulty 54
+22:11:51    0 platform created with velocity 0 and difficulty 56
 
-03:37:25   90 platform created with velocity 0 and difficulty 25
+22:11:51    0 platform created with velocity 0 and difficulty 64
 
-03:37:25   90 platform created with velocity 0 and difficulty 26
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (6.000000, 3449.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 1
 
-03:37:25   90 platform created with velocity 0 and difficulty 36
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (15.000000, 3459.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 16
 
-03:37:25   90 WorldManager::isValid(): Event df-collision handled automatically.
-03:37:25   90 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
-03:37:25   90 Fish spawned at (60.000000, 3469.969971)
-03:37:25   90 platform created with velocity 0 and difficulty 40
+22:11:51    0 platform created with velocity 0 and difficulty 12
 
-03:37:25   90 platform created with velocity 0 and difficulty 54
+22:11:51    0 platform created with velocity 0 and difficulty 28
 
-03:37:25   90 platform created with velocity 0 and difficulty 53
+22:11:51    0 platform created with velocity 0 and difficulty 15
 
-03:37:25   90 platform created with velocity 0 and difficulty 71
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (50.000000, 3499.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 33
 
-03:37:25   90 platform created with velocity 0 and difficulty 3
+22:11:51    0 platform created with velocity 0 and difficulty 39
 
-03:37:25   90 platform created with velocity 0 and difficulty 5
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 platform created with velocity 0 and difficulty 60
 
-03:37:25   90 platform created with velocity 0 and difficulty 58
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (8.000000, 3529.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 74
 
-03:37:25   90 platform created with velocity 0 and difficulty 4
+22:11:51    0 platform created with velocity 0 and difficulty 11
 
-03:37:25   90 platform created with velocity 0 and difficulty 7
+22:11:51    0 platform created with velocity 0 and difficulty 40
 
-03:37:25   90 platform created with velocity 0 and difficulty 94
+22:11:51    0 platform created with velocity 0 and difficulty 3
 
-03:37:25   90 platform created with velocity 0 and difficulty 72
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (26.000000, 3569.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 9
 
-03:37:25   90 platform created with velocity 0 and difficulty 34
+22:11:51    0 platform created with velocity 0 and difficulty 98
 
-03:37:25   90 platform created with velocity 0 and difficulty 51
+22:11:51    0 platform created with velocity 0 and difficulty 37
 
-03:37:25   90 platform created with velocity 0 and difficulty 4
+22:11:51    0 platform created with velocity 0 and difficulty 10
 
-03:37:25   90 platform created with velocity 0 and difficulty 24
+22:11:51    0 platform created with velocity 0 and difficulty 35
 
-03:37:25   90 platform created with velocity 0 and difficulty 58
+22:11:51    0 platform created with velocity 0 and difficulty 96
 
-03:37:25   90 platform created with velocity 0 and difficulty 26
+22:11:51    0 platform created with velocity 0 and difficulty 52
 
-03:37:25   90 WorldManager::isValid(): Event df-collision handled automatically.
-03:37:25   90 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
-03:37:25   90 Fish spawned at (46.000000, 3639.969971)
-03:37:25   90 platform created with velocity 0 and difficulty 3
+22:11:51    0 platform created with velocity 0 and difficulty 57
 
-03:37:25   90 platform created with velocity 0 and difficulty 8
+22:11:51    0 platform created with velocity 0 and difficulty 84
 
-03:37:25   90 platform created with velocity 0 and difficulty 80
+22:11:51    0 platform created with velocity 0 and difficulty 22
 
-03:37:25   90 platform created with velocity 0 and difficulty 42
+22:11:51    0 platform created with velocity 0 and difficulty 4
 
-03:37:25   90 platform created with velocity 0 and difficulty 98
+22:11:51    0 platform created with velocity 0 and difficulty 32
 
-03:37:25   90 platform created with velocity 0 and difficulty 27
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (22.000000, 3689.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 0
 
-03:37:25   90 platform created with velocity 0 and difficulty 54
+22:11:51    0 platform created with velocity 0 and difficulty 23
 
-03:37:25   90 platform created with velocity 0 and difficulty 96
+22:11:51    0 platform created with velocity 0 and difficulty 54
 
-03:37:25   90 platform created with velocity 0 and difficulty 15
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (66.000000, 3719.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 57
 
-03:37:25   90 platform created with velocity 0 and difficulty 90
+22:11:51    0 platform created with velocity 0 and difficulty 98
 
-03:37:25   90 platform created with velocity 0 and difficulty 59
+22:11:51    0 platform created with velocity 0 and difficulty 90
 
-03:37:25   90 WorldManager::isValid(): Event df-collision handled automatically.
-03:37:25   90 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
-03:37:25   90 Fish spawned at (26.000000, 3749.969971)
-03:37:25   90 platform created with velocity 0 and difficulty 9
+22:11:51    0 platform created with velocity 0 and difficulty 65
 
-03:37:25   90 platform created with velocity 0 and difficulty 49
+22:11:51    0 platform created with velocity 0 and difficulty 29
 
-03:37:25   90 platform created with velocity 0 and difficulty 89
+22:11:51    0 platform created with velocity 0 and difficulty 79
 
-03:37:25   90 platform created with velocity 0 and difficulty 9
+22:11:51    0 platform created with velocity 0 and difficulty 83
 
-03:37:25   90 platform created with velocity 0 and difficulty 50
+22:11:51    0 platform created with velocity 0 and difficulty 24
 
-03:37:25   90 platform created with velocity 0 and difficulty 26
+22:11:51    0 platform created with velocity 0 and difficulty 53
 
-03:37:25   90 platform created with velocity 0 and difficulty 18
+22:11:51    0 platform created with velocity 0 and difficulty 71
 
-03:37:25   90 platform created with velocity 0 and difficulty 93
+22:11:51    0 platform created with velocity 0 and difficulty 5
 
-03:37:25   90 platform created with velocity 0 and difficulty 88
+22:11:51    0 platform created with velocity 0 and difficulty 4
 
-03:37:25   90 platform created with velocity 0 and difficulty 50
+22:11:51    0 platform created with velocity 0 and difficulty 13
 
-03:37:25   90 platform created with velocity 0 and difficulty 14
+22:11:51    0 platform created with velocity 0 and difficulty 35
 
-03:37:25   90 platform created with velocity 0 and difficulty 99
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (30.000000, 3859.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 12
 
-03:37:25   90 platform created with velocity 0 and difficulty 98
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (8.000000, 3869.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 53
 
-03:37:25   90 platform created with velocity 0 and difficulty 83
+22:11:51    0 platform created with velocity 0 and difficulty 97
 
-03:37:25   90 platform created with velocity 0 and difficulty 13
+22:11:51    0 platform created with velocity 0 and difficulty 37
 
-03:37:25   90 platform created with velocity 0 and difficulty 73
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (56.000000, 3899.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 3
 
-03:37:25   90 platform created with velocity 0 and difficulty 7
+22:11:51    0 platform created with velocity 0 and difficulty 66
 
-03:37:25   90 platform created with velocity 0 and difficulty 37
+22:11:51    0 platform created with velocity 0 and difficulty 75
 
-03:37:25   90 platform created with velocity 0 and difficulty 48
+22:11:51    0 platform created with velocity 0 and difficulty 74
 
-03:37:25   90 platform created with velocity 0 and difficulty 75
+22:11:51    0 platform created with velocity 0 and difficulty 88
 
-03:37:25   90 platform created with velocity 0 and difficulty 42
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (5.000000, 3949.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 79
 
-03:37:25   90 platform created with velocity 0 and difficulty 12
+22:11:51    0 platform created with velocity 0 and difficulty 78
 
-03:37:25   90 platform created with velocity 0 and difficulty 35
+22:11:51    0 platform created with velocity 0 and difficulty 14
 
-03:37:25   90 platform created with velocity 0 and difficulty 99
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (69.000000, 3979.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 20
 
-03:37:25   90 platform created with velocity 0 and difficulty 95
+22:11:51    0 platform created with velocity 0 and difficulty 16
 
-03:37:25   90 platform created with velocity 0 and difficulty 61
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 platform created with velocity 0 and difficulty 27
 
-03:37:25   90 platform created with velocity 0 and difficulty 25
+22:11:51    0 platform created with velocity 0 and difficulty 66
 
-03:37:25   90 platform created with velocity 0 and difficulty 91
+22:11:51    0 platform created with velocity 0 and difficulty 49
 
-03:37:25   90 platform created with velocity 0 and difficulty 3
+22:11:51    0 platform created with velocity 0 and difficulty 30
 
-03:37:25   90 platform created with velocity 0 and difficulty 6
+22:11:51    0 platform created with velocity 0 and difficulty 24
 
-03:37:25   90 platform created with velocity 0 and difficulty 22
+22:11:51    0 platform created with velocity 0 and difficulty 48
 
-03:37:25   90 platform created with velocity 0 and difficulty 12
+22:11:51    0 platform created with velocity 0 and difficulty 24
 
-03:37:25   90 platform created with velocity 0 and difficulty 32
+22:11:51    0 platform created with velocity 0 and difficulty 69
 
-03:37:25   90 platform created with velocity 0 and difficulty 54
+22:11:51    0 platform created with velocity 0 and difficulty 80
 
-03:37:25   90 platform created with velocity 0 and difficulty 32
+22:11:51    0 platform created with velocity 0 and difficulty 3
 
-03:37:25   90 platform created with velocity 0 and difficulty 32
+22:11:51    0 platform created with velocity 0 and difficulty 61
 
-03:37:25   90 platform created with velocity 0 and difficulty 95
+22:11:51    0 platform created with velocity 0 and difficulty 17
 
-03:37:25   90 platform created with velocity 0 and difficulty 43
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (39.000000, 4119.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 49
 
-03:37:25   90 platform created with velocity 0 and difficulty 70
+22:11:51    0 platform created with velocity 0 and difficulty 47
 
-03:37:25   90 platform created with velocity 0 and difficulty 24
+22:11:51    0 platform created with velocity 0 and difficulty 55
 
-03:37:25   90 platform created with velocity 0 and difficulty 45
+22:11:51    0 platform created with velocity 0 and difficulty 30
 
-03:37:25   90 platform created with velocity 0 and difficulty 33
+22:11:51    0 platform created with velocity 0 and difficulty 73
 
-03:37:25   90 platform created with velocity 0 and difficulty 8
+22:11:51    0 platform created with velocity 0 and difficulty 87
 
-03:37:25   90 platform created with velocity 0 and difficulty 14
+22:11:51    0 platform created with velocity 0 and difficulty 25
 
-03:37:25   90 platform created with velocity 0 and difficulty 16
+22:11:51    0 platform created with velocity 0 and difficulty 37
 
-03:37:25   90 platform created with velocity 0 and difficulty 26
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (33.000000, 4199.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 83
 
-03:37:25   90 platform created with velocity 0 and difficulty 60
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (17.000000, 4209.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 79
 
-03:37:25   90 platform created with velocity 0 and difficulty 34
+22:11:51    0 platform created with velocity 0 and difficulty 81
 
-03:37:25   90 platform created with velocity 0 and difficulty 22
+22:11:51    0 platform created with velocity 0 and difficulty 10
 
-03:37:25   90 platform created with velocity 0 and difficulty 87
+22:11:51    0 platform created with velocity 0 and difficulty 12
 
-03:37:25   90 WorldManager::isValid(): Event df-collision handled automatically.
-03:37:25   90 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
-03:37:25   90 Fish spawned at (27.000000, 4249.970215)
-03:37:25   90 platform created with velocity 0 and difficulty 31
+22:11:51    0 platform created with velocity 0 and difficulty 93
 
-03:37:25   90 platform created with velocity 0 and difficulty 3
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (50.000000, 4259.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 94
 
-03:37:25   90 platform created with velocity 0 and difficulty 6
+22:11:51    0 platform created with velocity 0 and difficulty 6
 
-03:37:25   90 platform created with velocity 0 and difficulty 31
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (50.000000, 4279.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 45
 
-03:37:25   90 platform created with velocity 0 and difficulty 99
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (52.000000, 4289.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 73
 
-03:37:25   90 platform created with velocity 0 and difficulty 91
+22:11:51    0 platform created with velocity 0 and difficulty 8
 
-03:37:25   90 platform created with velocity 0 and difficulty 62
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (71.000000, 4309.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 97
 
-03:37:25   90 platform created with velocity 0 and difficulty 38
+22:11:51    0 platform created with velocity 0 and difficulty 72
 
-03:37:25   90 platform created with velocity 0 and difficulty 80
+22:11:51    0 platform created with velocity 0 and difficulty 18
 
-03:37:25   90 platform created with velocity 0 and difficulty 92
+22:11:51    0 platform created with velocity 0 and difficulty 31
 
-03:37:25   90 platform created with velocity 0 and difficulty 37
+22:11:51    0 platform created with velocity 0 and difficulty 31
 
-03:37:25   90 platform created with velocity 0 and difficulty 73
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (37.000000, 4359.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 43
 
-03:37:25   90 platform created with velocity 0 and difficulty 74
+22:11:51    0 platform created with velocity 0 and difficulty 64
 
-03:37:25   90 platform created with velocity 0 and difficulty 71
+22:11:51    0 platform created with velocity 0 and difficulty 24
 
-03:37:25   90 platform created with velocity 0 and difficulty 17
+22:11:51    0 platform created with velocity 0 and difficulty 83
 
-03:37:25   90 platform created with velocity 0 and difficulty 91
+22:11:51    0 platform created with velocity 0 and difficulty 15
 
-03:37:25   90 platform created with velocity 0 and difficulty 6
+22:11:51    0 platform created with velocity 0 and difficulty 91
 
-03:37:25   90 platform created with velocity 0 and difficulty 59
+22:11:51    0 platform created with velocity 0 and difficulty 85
 
-03:37:25   90 platform created with velocity 0 and difficulty 24
+22:11:51    0 platform created with velocity 0 and difficulty 93
 
-03:37:25   90 platform created with velocity 0 and difficulty 10
+22:11:51    0 platform created with velocity 0 and difficulty 47
 
-03:37:25   90 platform created with velocity 0 and difficulty 79
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (35.000000, 4449.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 57
 
-03:37:25   90 platform created with velocity 0 and difficulty 22
+22:11:51    0 platform created with velocity 0 and difficulty 12
 
-03:37:25   90 platform created with velocity 0 and difficulty 27
+22:11:51    0 platform created with velocity 0 and difficulty 29
 
-03:37:25   90 platform created with velocity 0 and difficulty 78
+22:11:51    0 platform created with velocity 0 and difficulty 61
 
-03:37:25   90 platform created with velocity 0 and difficulty 63
+22:11:51    0 platform created with velocity 0 and difficulty 37
 
-03:37:25   90 platform created with velocity 0 and difficulty 35
+22:11:51    0 platform created with velocity 0 and difficulty 5
 
-03:37:25   90 platform created with velocity 0 and difficulty 75
+22:11:51    0 platform created with velocity 0 and difficulty 13
 
-03:37:25   90 platform created with velocity 0 and difficulty 66
+22:11:51    0 platform created with velocity 0 and difficulty 15
 
-03:37:25   90 platform created with velocity 0 and difficulty 33
+22:11:51    0 platform created with velocity 0 and difficulty 48
 
-03:37:25   90 platform created with velocity 0 and difficulty 5
+22:11:51    0 platform created with velocity 0 and difficulty 92
 
-03:37:25   90 platform created with velocity 0 and difficulty 31
+22:11:51    0 platform created with velocity 0 and difficulty 64
 
-03:37:25   90 platform created with velocity 0 and difficulty 45
+22:11:51    0 platform created with velocity 0 and difficulty 87
 
-03:37:25   90 platform created with velocity 0 and difficulty 97
+22:11:51    0 platform created with velocity 0 and difficulty 25
 
-03:37:25   90 platform created with velocity 0 and difficulty 46
+22:11:51    0 platform created with velocity 0 and difficulty 36
 
-03:37:25   90 WorldManager::isValid(): Event df-collision handled automatically.
-03:37:25   90 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
-03:37:25   90 Fish spawned at (12.000000, 4589.970215)
-03:37:25   90 platform created with velocity 0 and difficulty 62
+22:11:51    0 platform created with velocity 0 and difficulty 83
 
-03:37:25   90 platform created with velocity 0 and difficulty 32
+22:11:51    0 platform created with velocity 0 and difficulty 34
 
-03:37:25   90 platform created with velocity 0 and difficulty 95
+22:11:51    0 platform created with velocity 0 and difficulty 98
 
-03:37:25   90 platform created with velocity 0 and difficulty 95
+22:11:51    0 platform created with velocity 0 and difficulty 35
 
-03:37:25   90 platform created with velocity 0 and difficulty 54
+22:11:51    0 platform created with velocity 0 and difficulty 72
 
-03:37:25   90 platform created with velocity 0 and difficulty 14
+22:11:51    0 platform created with velocity 0 and difficulty 57
 
-03:37:25   90 platform created with velocity 0 and difficulty 68
+22:11:51    0 platform created with velocity 0 and difficulty 43
 
-03:37:25   90 platform created with velocity 0 and difficulty 46
+22:11:51    0 platform created with velocity 0 and difficulty 8
 
-03:37:25   90 WorldManager::isValid(): Event df-collision handled automatically.
-03:37:25   90 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
-03:37:25   90 Fish spawned at (21.000000, 4669.970215)
-03:37:25   90 platform created with velocity 0 and difficulty 60
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (33.000000, 4669.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 43
 
-03:37:25   90 WorldManager::isValid(): Event df-collision handled automatically.
-03:37:25   90 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
-03:37:25   90 Fish spawned at (5.000000, 4679.970215)
-03:37:25   90 platform created with velocity 0 and difficulty 75
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 platform created with velocity 0 and difficulty 74
 
-03:37:25   90 platform created with velocity 0 and difficulty 7
+22:11:51    0 platform created with velocity 0 and difficulty 24
 
-03:37:25   90 WorldManager::isValid(): Event df-collision handled automatically.
-03:37:25   90 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
-03:37:25   90 Fish spawned at (45.000000, 4699.970215)
-03:37:25   90 platform created with velocity 0 and difficulty 84
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (16.000000, 4699.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 24
 
-03:37:25   90 platform created with velocity 0 and difficulty 5
+22:11:51    0 platform created with velocity 0 and difficulty 11
 
-03:37:25   90 platform created with velocity 0 and difficulty 24
+22:11:51    0 platform created with velocity 0 and difficulty 6
 
-03:37:25   90 platform created with velocity 0 and difficulty 71
+22:11:51    0 platform created with velocity 0 and difficulty 18
 
-03:37:25   90 platform created with velocity 0 and difficulty 49
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 platform created with velocity 0 and difficulty 35
 
-03:37:25   90 platform created with velocity 0 and difficulty 76
+22:11:51    0 platform created with velocity 0 and difficulty 80
 
-03:37:25   90 platform created with velocity 0 and difficulty 30
+22:11:51    0 platform created with velocity 0 and difficulty 61
 
-03:37:25   90 platform created with velocity 0 and difficulty 37
+22:11:51    0 platform created with velocity 0 and difficulty 76
 
-03:37:25   90 platform created with velocity 0 and difficulty 73
+22:11:51    0 platform created with velocity 0 and difficulty 21
 
-03:37:25   90 platform created with velocity 0 and difficulty 35
+22:11:51    0 platform created with velocity 0 and difficulty 52
 
-03:37:25   90 platform created with velocity 0 and difficulty 94
+22:11:51    0 platform created with velocity 0 and difficulty 57
 
-03:37:25   90 platform created with velocity 0 and difficulty 75
+22:11:51    0 platform created with velocity 0 and difficulty 45
 
-03:37:25   90 platform created with velocity 0 and difficulty 49
+22:11:51    0 platform created with velocity 0 and difficulty 16
 
-03:37:25   90 platform created with velocity 0 and difficulty 20
+22:11:51    0 platform created with velocity 0 and difficulty 51
 
-03:37:25   90 platform created with velocity 0 and difficulty 13
+22:11:51    0 platform created with velocity 0 and difficulty 10
 
-03:37:25   90 platform created with velocity 0 and difficulty 41
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (39.000000, 4849.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 48
 
-03:37:25   90 platform created with velocity 0 and difficulty 30
+22:11:51    0 platform created with velocity 0 and difficulty 86
 
-03:37:25   90 platform created with velocity 0 and difficulty 80
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (35.000000, 4869.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 62
 
-03:37:25   90 platform created with velocity 0 and difficulty 52
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (38.000000, 4879.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 41
 
-03:37:25   90 platform created with velocity 0 and difficulty 3
+22:11:51    0 platform created with velocity 0 and difficulty 94
 
-03:37:25   90 platform created with velocity 0 and difficulty 16
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (31.000000, 4899.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 83
 
-03:37:25   90 platform created with velocity 0 and difficulty 81
+22:11:51    0 platform created with velocity 0 and difficulty 90
 
-03:37:25   90 platform created with velocity 0 and difficulty 18
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 Fish spawned at (15.000000, 4919.970000)
+22:11:51    0 platform created with velocity 0 and difficulty 56
 
-03:37:25   90 platform created with velocity 0 and difficulty 8
+22:11:51    0 platform created with velocity 0 and difficulty 79
 
-03:37:25   90 platform created with velocity 0 and difficulty 38
+22:11:51    0 platform created with velocity 0 and difficulty 64
 
-03:37:25   90 platform created with velocity 0 and difficulty 22
+22:11:51    0 platform created with velocity 0 and difficulty 68
 
-03:37:25   90 platform created with velocity 0 and difficulty 20
+22:11:51    0 platform created with velocity 0 and difficulty 65
 
-03:37:25   90 platform created with velocity 0 and difficulty 70
+22:11:51    0 WorldManager::isValid(): Event df-collision handled automatically.
+22:11:51    0 Manager(WorldManager)::registerInterest(): Event 'df-collision' not valid for this Manager
+22:11:51    0 platform created with velocity 0 and difficulty 20
 
-03:37:25    1 GameManager::run(): Can't keep up! frame_time 33 ms, split 39 ms
-03:37:26    2 GameManager::run(): Can't keep up! frame_time 33 ms, split 43 ms
-03:37:26    3 GameManager::run(): Can't keep up! frame_time 33 ms, split 41 ms
-03:37:26    4 GameManager::run(): Can't keep up! frame_time 33 ms, split 40 ms
-03:37:26    5 GameManager::run(): Can't keep up! frame_time 33 ms, split 40 ms
-03:37:26    6 GameManager::run(): Can't keep up! frame_time 33 ms, split 39 ms
-03:37:26    7 GameManager::run(): Can't keep up! frame_time 33 ms, split 43 ms
-03:37:26    8 GameManager::run(): Can't keep up! frame_time 33 ms, split 39 ms
-03:37:26    9 GameManager::run(): Can't keep up! frame_time 33 ms, split 40 ms
-03:37:26   10 GameManager::run(): Can't keep up! frame_time 33 ms, split 41 ms
-03:37:26   11 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
-03:37:26   12 GameManager::run(): Can't keep up! frame_time 33 ms, split 41 ms
-03:37:26   13 GameManager::run(): Can't keep up! frame_time 33 ms, split 40 ms
-03:37:26   14 GameManager::run(): Can't keep up! frame_time 33 ms, split 41 ms
-03:37:26   15 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
-03:37:26   16 GameManager::run(): Can't keep up! frame_time 33 ms, split 40 ms
-03:37:26   17 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
-03:37:26   18 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
-03:37:26   19 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
-03:37:26   20 GameManager::run(): Can't keep up! frame_time 33 ms, split 39 ms
-03:37:27   33 GameManager::run(): Can't keep up! frame_time 33 ms, split 37 ms
-03:37:27   34 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
-03:37:27   35 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
-03:37:27   39 Platform at (23.699984, 4981.000000) has exited the view and will be deleted.
-03:37:27   43 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
-03:37:28   68 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
-03:37:28   69 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
-03:37:29  100 Platform at (15.799940, 4971.000000) has exited the view and will be deleted.
-03:37:29  110 Platform at (54.300022, 4961.000000) has exited the view and will be deleted.
-03:37:30  118 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
-03:37:30  128 Platform at (34.000004, 4951.000000) has exited the view and will be deleted.
-03:37:30  131 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
-03:37:31  164 Platform at (72.300011, 4941.000000) has exited the view and will be deleted.
-03:37:31  170 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
-03:37:31  171 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
-03:37:31  174 Platform at (64.499969, 4931.000000) has exited the view and will be deleted.
-03:37:32  184 GameManager::run(): Can't keep up! frame_time 33 ms, split 39 ms
-03:37:32  185 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
-03:37:32  186 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
-03:37:32  192 Platform at (67.499969, 4921.000000) has exited the view and will be deleted.
-03:37:32  196 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
-03:37:32  201 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
-03:37:32  202 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
-03:37:32  203 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
-03:37:33  231 Platform at (26.100012, 4911.000000) has exited the view and will be deleted.
-03:37:34  241 Platform at (70.199959, 4901.000000) has exited the view and will be deleted.
-03:37:34  249 GameManager::run(): Can't keep up! frame_time 33 ms, split 37 ms
-03:37:34  250 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
-03:37:34  259 Platform at (33.299999, 4891.000000) has exited the view and will be deleted.
-03:37:34  264 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
-03:37:34  265 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
-03:37:34  266 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
-03:37:35  295 Platform at (21.499989, 4881.000000) has exited the view and will be deleted.
-03:37:36  305 Platform at (14.099863, 4871.000000) has exited the view and will be deleted.
-03:37:36  312 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
-03:37:36  313 GameManager::run(): Can't keep up! frame_time 33 ms, split 37 ms
-03:37:36  314 GameManager::run(): Can't keep up! frame_time 33 ms, split 37 ms
-03:37:36  315 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
-03:37:36  316 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
-03:37:36  317 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
-03:37:36  318 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
-03:37:36  323 Platform at (22.200005, 4861.000000) has exited the view and will be deleted.
-03:37:37  331 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
-03:37:37  334 GameManager::run(): Can't keep up! frame_time 33 ms, split 42 ms
-03:37:37  335 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
-03:37:37  336 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
-03:37:37  337 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
-03:37:37  338 GameManager::run(): Can't keep up! frame_time 33 ms, split 53 ms
-03:37:37  339 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
-03:37:37  340 GameManager::run(): Can't keep up! frame_time 33 ms, split 54 ms
-03:37:37  341 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
-03:37:37  342 GameManager::run(): Can't keep up! frame_time 33 ms, split 42 ms
-03:37:37  343 GameManager::run(): Can't keep up! frame_time 33 ms, split 42 ms
-03:37:37  344 GameManager::run(): Can't keep up! frame_time 33 ms, split 42 ms
-03:37:37  345 GameManager::run(): Can't keep up! frame_time 33 ms, split 41 ms
-03:37:37  346 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
-03:37:37  347 GameManager::run(): Can't keep up! frame_time 33 ms, split 40 ms
-03:37:37  348 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
-03:37:37  349 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
-03:37:37  350 GameManager::run(): Can't keep up! frame_time 33 ms, split 40 ms
-03:37:37  351 GameManager::run(): Can't keep up! frame_time 33 ms, split 39 ms
-03:37:38  352 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
-03:37:38  353 GameManager::run(): Can't keep up! frame_time 33 ms, split 57 ms
-03:37:38  354 GameManager::run(): Can't keep up! frame_time 33 ms, split 315 ms
-03:37:38  355 GameManager::run(): Can't keep up! frame_time 33 ms, split 57 ms
-03:37:38  356 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
-03:37:38  357 Platform at (17.000034, 4851.000000) has exited the view and will be deleted.
-03:37:38  357 GameManager::run(): Can't keep up! frame_time 33 ms, split 42 ms
-03:37:38  358 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
-03:37:38  359 GameManager::run(): Can't keep up! frame_time 33 ms, split 54 ms
-03:37:38  360 GameManager::run(): Can't keep up! frame_time 33 ms, split 40 ms
-03:37:38  361 GameManager::run(): Can't keep up! frame_time 33 ms, split 42 ms
-03:37:38  362 GameManager::run(): Can't keep up! frame_time 33 ms, split 40 ms
-03:37:38  363 GameManager::run(): Can't keep up! frame_time 33 ms, split 43 ms
-03:37:38  364 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
-03:37:38  365 GameManager::run(): Can't keep up! frame_time 33 ms, split 56 ms
-03:37:38  366 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
-03:37:38  367 Platform at (67.500023, 4841.000000) has exited the view and will be deleted.
-03:37:39  367 GameManager::run(): Can't keep up! frame_time 33 ms, split 41 ms
-03:37:39  368 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
-03:37:39  369 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
-03:37:39  370 GameManager::run(): Can't keep up! frame_time 33 ms, split 41 ms
-03:37:39  371 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
-03:37:39  372 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
-03:37:39  373 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
-03:37:39  374 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
-03:37:39  375 GameManager::run(): Can't keep up! frame_time 33 ms, split 42 ms
-03:37:39  376 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
-03:37:39  377 GameManager::run(): Can't keep up! frame_time 33 ms, split 39 ms
-03:37:39  378 GameManager::run(): Can't keep up! frame_time 33 ms, split 41 ms
-03:37:39  379 GameManager::run(): Can't keep up! frame_time 33 ms, split 37 ms
-03:37:39  380 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
-03:37:39  381 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
-03:37:39  385 Platform at (70.300003, 4831.000000) has exited the view and will be deleted.
-03:37:40  420 Platform at (30.900002, 4821.000000) has exited the view and will be deleted.
-03:37:41  430 Platform at (47.500000, 4811.000000) has exited the view and will be deleted.
-03:37:41  448 Platform at (7.500000, 4801.000000) has exited the view and will be deleted.
-03:37:43  487 Platform at (11.699865, 4791.000000) has exited the view and will be deleted.
-03:37:43  497 Platform at (53.699928, 4781.000000) has exited the view and will be deleted.
-03:37:43  515 Platform at (19.699993, 4771.000000) has exited the view and will be deleted.
-03:37:45  551 Platform at (63.499958, 4761.000000) has exited the view and will be deleted.
-03:37:45  561 Platform at (19.299858, 4751.000000) has exited the view and will be deleted.
-03:37:46  579 Platform at (31.899979, 4741.000000) has exited the view and will be deleted.
-03:37:47  616 Platform at (59.000000, 4731.000000) has exited the view and will be deleted.
-03:37:47  626 Platform at (24.499996, 4721.000000) has exited the view and will be deleted.
-03:37:48  644 Platform at (26.699984, 4711.000000) has exited the view and will be deleted.
-03:37:48  660 Fish collected. +100 points
-03:37:50  701 Platform at (71.900002, 4701.000000) has exited the view and will be deleted.
-03:37:50  710 Fish collected. +100 points
-03:37:50  712 Platform at (53.300049, 4691.000000) has exited the view and will be deleted.
-03:37:51  733 Platform at (54.899956, 4681.000000) has exited the view and will be deleted.
-03:37:51  733 Fish collected. +100 points
-03:37:52  765 Platform at (52.500023, 4671.000000) has exited the view and will be deleted.
-03:37:52  775 Platform at (65.500000, 4661.000000) has exited the view and will be deleted.
-03:37:53  793 Platform at (65.500000, 4651.000000) has exited the view and will be deleted.
-03:37:54  828 Platform at (47.099987, 4641.000000) has exited the view and will be deleted.
-03:37:54  838 Platform at (15.500000, 4631.000000) has exited the view and will be deleted.
-03:37:55  856 Platform at (10.199986, 4621.000000) has exited the view and will be deleted.
-03:37:56  907 Platform at (64.800011, 4611.000000) has exited the view and will be deleted.
-03:37:57  917 Platform at (43.700008, 4601.000000) has exited the view and will be deleted.
-03:37:57  935 Platform at (65.100044, 4591.000000) has exited the view and will be deleted.
-03:37:59  992 Platform at (63.799915, 4581.000000) has exited the view and will be deleted.
-03:38:00 1002 Platform at (26.699984, 4571.000000) has exited the view and will be deleted.
-03:38:00 1020 Platform at (30.700054, 4561.000000) has exited the view and will be deleted.
-03:38:01 1057 Platform at (61.699982, 4551.000000) has exited the view and will be deleted.
-03:38:02 1067 Platform at (65.500000, 4541.000000) has exited the view and will be deleted.
-03:38:02 1085 Platform at (27.700005, 4531.000000) has exited the view and will be deleted.
-03:38:04 1122 Platform at (32.000000, 4521.000000) has exited the view and will be deleted.
-03:38:04 1132 Platform at (55.500023, 4511.000000) has exited the view and will be deleted.
-03:38:04 1150 Platform at (27.500000, 4501.000000) has exited the view and will be deleted.
-03:38:06 1189 Platform at (65.600044, 4491.000000) has exited the view and will be deleted.
-03:38:06 1199 Platform at (69.800026, 4481.000000) has exited the view and will be deleted.
-03:38:06 1199 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
-03:38:07 1217 Platform at (23.600018, 4471.000000) has exited the view and will be deleted.
-03:38:08 1254 Platform at (59.899979, 4461.000000) has exited the view and will be deleted.
-03:38:08 1259 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
-03:38:08 1260 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
-03:38:08 1261 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
-03:38:08 1263 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
-03:38:08 1264 Platform at (9.000000, 4451.000000) has exited the view and will be deleted.
-03:38:09 1282 Platform at (54.300064, 4441.000000) has exited the view and will be deleted.
-03:38:10 1319 Platform at (39.900013, 4431.000000) has exited the view and will be deleted.
-03:38:10 1329 Platform at (55.100067, 4421.000000) has exited the view and will be deleted.
-03:38:11 1347 Platform at (38.500000, 4411.000000) has exited the view and will be deleted.
-03:38:12 1384 Platform at (43.000000, 4401.000000) has exited the view and will be deleted.
-03:38:13 1394 Platform at (40.999947, 4391.000000) has exited the view and will be deleted.
-03:38:13 1412 Platform at (30.100002, 4381.000000) has exited the view and will be deleted.
-03:38:21 1645 ****************************************************
-03:38:21 1645 ** Game engine stopped **
+22:11:51    1 GameManager::run(): Can't keep up! frame_time 33 ms, split 97 ms
+22:11:51    2 GameManager::run(): Can't keep up! frame_time 33 ms, split 119 ms
+22:11:51    3 GameManager::run(): Can't keep up! frame_time 33 ms, split 111 ms
+22:11:51    4 GameManager::run(): Can't keep up! frame_time 33 ms, split 170 ms
+22:11:52    5 GameManager::run(): Can't keep up! frame_time 33 ms, split 81 ms
+22:11:52    6 GameManager::run(): Can't keep up! frame_time 33 ms, split 89 ms
+22:11:52    7 GameManager::run(): Can't keep up! frame_time 33 ms, split 93 ms
+22:11:52    8 GameManager::run(): Can't keep up! frame_time 33 ms, split 95 ms
+22:11:52    9 GameManager::run(): Can't keep up! frame_time 33 ms, split 88 ms
+22:11:52   10 GameManager::run(): Can't keep up! frame_time 33 ms, split 104 ms
+22:11:52   11 GameManager::run(): Can't keep up! frame_time 33 ms, split 78 ms
+22:11:52   12 GameManager::run(): Can't keep up! frame_time 33 ms, split 103 ms
+22:11:52   13 GameManager::run(): Can't keep up! frame_time 33 ms, split 94 ms
+22:11:52   14 GameManager::run(): Can't keep up! frame_time 33 ms, split 86 ms
+22:11:52   15 GameManager::run(): Can't keep up! frame_time 33 ms, split 72 ms
+22:11:53   16 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+22:11:53   17 GameManager::run(): Can't keep up! frame_time 33 ms, split 59 ms
+22:11:53   18 GameManager::run(): Can't keep up! frame_time 33 ms, split 42 ms
+22:11:53   19 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+22:11:53   20 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+22:11:53   21 GameManager::run(): Can't keep up! frame_time 33 ms, split 41 ms
+22:11:53   22 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+22:11:53   23 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+22:11:53   24 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+22:11:53   25 GameManager::run(): Can't keep up! frame_time 33 ms, split 37 ms
+22:11:53   26 GameManager::run(): Can't keep up! frame_time 33 ms, split 41 ms
+22:11:53   27 GameManager::run(): Can't keep up! frame_time 33 ms, split 43 ms
+22:11:53   28 GameManager::run(): Can't keep up! frame_time 33 ms, split 42 ms
+22:11:53   29 GameManager::run(): Can't keep up! frame_time 33 ms, split 41 ms
+22:11:53   30 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+22:11:53   31 GameManager::run(): Can't keep up! frame_time 33 ms, split 40 ms
+22:11:53   32 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+22:11:53   33 Catnip collected! Activating 'high' mode!
+22:11:53   33 GameManager::run(): Can't keep up! frame_time 33 ms, split 53 ms
+22:11:53   34 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+22:11:53   35 Platform at (54.500000, 4981.000000) has exited the view and will be deleted.
+22:11:53   35 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+22:11:53   36 GameManager::run(): Can't keep up! frame_time 33 ms, split 39 ms
+22:11:53   37 GameManager::run(): Can't keep up! frame_time 33 ms, split 39 ms
+22:11:53   38 Platform at (60.500019, 4971.000000) has exited the view and will be deleted.
+22:11:53   38 GameManager::run(): Can't keep up! frame_time 33 ms, split 39 ms
+22:11:54   39 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
+22:11:54   40 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+22:11:54   41 Platform at (56.299969, 4961.000000) has exited the view and will be deleted.
+22:11:54   41 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:11:54   42 GameManager::run(): Can't keep up! frame_time 33 ms, split 37 ms
+22:11:54   43 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:11:54   44 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:11:54   45 Platform at (26.999983, 4951.000000) has exited the view and will be deleted.
+22:11:54   49 Platform at (58.899975, 4941.000000) has exited the view and will be deleted.
+22:11:54   53 Platform at (40.999947, 4931.000000) has exited the view and will be deleted.
+22:11:54   56 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:11:54   57 Platform at (37.800007, 4921.000000) has exited the view and will be deleted.
+22:11:54   57 Fish collected. +100 points
+22:11:54   63 Platform at (68.899986, 4911.000000) has exited the view and will be deleted.
+22:11:54   63 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:11:54   68 Platform at (59.699974, 4901.000000) has exited the view and will be deleted.
+22:11:55   68 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
+22:11:55   69 GameManager::run(): Can't keep up! frame_time 33 ms, split 50 ms
+22:11:55   70 GameManager::run(): Can't keep up! frame_time 33 ms, split 42 ms
+22:11:55   71 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+22:11:55   72 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:11:55   73 Platform at (14.899991, 4891.000000) has exited the view and will be deleted.
+22:11:55   73 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
+22:11:55   74 GameManager::run(): Can't keep up! frame_time 33 ms, split 41 ms
+22:11:55   75 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:11:55   76 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:11:55   77 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:11:55   79 Platform at (52.200024, 4881.000000) has exited the view and will be deleted.
+22:11:55   84 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:11:55   85 Platform at (67.500000, 4871.000000) has exited the view and will be deleted.
+22:11:55   90 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:11:55   91 GameManager::run(): Can't keep up! frame_time 33 ms, split 40 ms
+22:11:55   92 Platform at (20.800051, 4861.000000) has exited the view and will be deleted.
+22:11:55   92 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:11:55   93 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:11:55   94 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:11:56   95 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:11:56   96 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:11:56   97 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:11:56   98 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:11:56   99 GameManager::run(): Can't keep up! frame_time 33 ms, split 43 ms
+22:11:56  100 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+22:11:56  101 Platform at (55.500000, 4851.000000) has exited the view and will be deleted.
+22:11:56  101 GameManager::run(): Can't keep up! frame_time 33 ms, split 41 ms
+22:11:56  102 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
+22:11:56  103 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:11:56  104 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+22:11:56  105 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
+22:11:56  106 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:11:56  107 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:11:56  108 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:11:56  114 Platform at (65.100029, 4841.000000) has exited the view and will be deleted.
+22:11:56  123 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:11:57  124 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:11:57  131 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:11:57  132 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:11:57  133 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:11:57  141 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:11:58  155 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:11:58  161 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:11:58  162 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:11:58  165 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:11:58  168 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:11:58  169 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:11:58  172 Platform at (13.000000, 4831.000000) has exited the view and will be deleted.
+22:11:58  182 Platform at (26.500000, 4821.000000) has exited the view and will be deleted.
+22:11:59  189 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:11:59  200 Platform at (15.300049, 4811.000000) has exited the view and will be deleted.
+22:12:00  217 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:12:00  235 Platform at (68.299973, 4801.000000) has exited the view and will be deleted.
+22:12:01  245 Platform at (71.900017, 4791.000000) has exited the view and will be deleted.
+22:12:01  250 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:01  251 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:12:01  252 GameManager::run(): Can't keep up! frame_time 33 ms, split 40 ms
+22:12:01  262 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+22:12:01  263 Platform at (24.200016, 4781.000000) has exited the view and will be deleted.
+22:12:03  308 Platform at (40.500000, 4771.000000) has exited the view and will be deleted.
+22:12:03  312 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:12:03  318 Platform at (61.699982, 4761.000000) has exited the view and will be deleted.
+22:12:03  325 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:12:03  326 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:03  327 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:12:03  328 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:12:03  329 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:12:03  330 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:12:03  331 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:12:04  332 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:12:04  333 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:04  334 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:04  335 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:12:04  336 Platform at (55.100067, 4751.000000) has exited the view and will be deleted.
+22:12:04  338 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:04  339 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:04  344 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:12:04  345 GameManager::run(): Can't keep up! frame_time 33 ms, split 37 ms
+22:12:04  346 Catnip collected! Activating 'high' mode!
+22:12:04  346 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:12:04  349 GameManager::run(): Can't keep up! frame_time 33 ms, split 37 ms
+22:12:04  350 Platform at (67.099991, 4741.000000) has exited the view and will be deleted.
+22:12:04  354 Platform at (10.900047, 4731.000000) has exited the view and will be deleted.
+22:12:04  356 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:04  357 GameManager::run(): Can't keep up! frame_time 33 ms, split 43 ms
+22:12:04  358 Platform at (64.499969, 4721.000000) has exited the view and will be deleted.
+22:12:04  358 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
+22:12:04  361 Platform at (68.099983, 4711.000000) has exited the view and will be deleted.
+22:12:05  362 GameManager::run(): Can't keep up! frame_time 33 ms, split 41 ms
+22:12:05  363 GameManager::run(): Can't keep up! frame_time 33 ms, split 42 ms
+22:12:05  364 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:12:05  365 Platform at (21.800005, 4701.000000) has exited the view and will be deleted.
+22:12:05  365 GameManager::run(): Can't keep up! frame_time 33 ms, split 39 ms
+22:12:05  366 GameManager::run(): Can't keep up! frame_time 33 ms, split 40 ms
+22:12:05  367 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+22:12:05  368 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:12:05  370 Platform at (55.899975, 4691.000000) has exited the view and will be deleted.
+22:12:05  371 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+22:12:05  372 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+22:12:05  373 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:05  374 Platform at (24.500000, 4681.000000) has exited the view and will be deleted.
+22:12:05  374 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+22:12:05  375 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
+22:12:05  379 Platform at (54.799976, 4671.000000) has exited the view and will be deleted.
+22:12:05  380 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:12:05  381 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:05  382 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:12:05  384 Platform at (27.900013, 4661.000000) has exited the view and will be deleted.
+22:12:06  389 Platform at (41.699989, 4651.000000) has exited the view and will be deleted.
+22:12:06  395 Platform at (43.900040, 4641.000000) has exited the view and will be deleted.
+22:12:06  402 Platform at (49.000000, 4631.000000) has exited the view and will be deleted.
+22:12:06  411 Platform at (21.900051, 4621.000000) has exited the view and will be deleted.
+22:12:07  420 GameManager::run(): Can't keep up! frame_time 33 ms, split 39 ms
+22:12:07  421 Platform at (20.099995, 4611.000000) has exited the view and will be deleted.
+22:12:07  424 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:12:07  429 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:12:07  433 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
+22:12:07  440 GameManager::run(): Can't keep up! frame_time 33 ms, split 43 ms
+22:12:08  451 GameManager::run(): Can't keep up! frame_time 33 ms, split 37 ms
+22:12:08  465 Platform at (56.500000, 4601.000000) has exited the view and will be deleted.
+22:12:08  473 Platform at (43.500000, 4591.000000) has exited the view and will be deleted.
+22:12:09  483 Platform at (23.500000, 4581.000000) has exited the view and will be deleted.
+22:12:09  483 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
+22:12:09  484 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:12:09  501 Platform at (47.299904, 4571.000000) has exited the view and will be deleted.
+22:12:10  521 GameManager::run(): Can't keep up! frame_time 33 ms, split 37 ms
+22:12:10  522 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:12:10  523 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
+22:12:10  524 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:10  527 GameManager::run(): Can't keep up! frame_time 33 ms, split 37 ms
+22:12:10  528 GameManager::run(): Can't keep up! frame_time 33 ms, split 46 ms
+22:12:10  529 GameManager::run(): Can't keep up! frame_time 33 ms, split 57 ms
+22:12:10  530 GameManager::run(): Can't keep up! frame_time 33 ms, split 51 ms
+22:12:10  531 GameManager::run(): Can't keep up! frame_time 33 ms, split 39 ms
+22:12:11  532 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
+22:12:11  533 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
+22:12:11  534 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+22:12:11  535 GameManager::run(): Can't keep up! frame_time 33 ms, split 42 ms
+22:12:11  536 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+22:12:11  537 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+22:12:11  538 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+22:12:11  539 Platform at (18.500093, 4561.000000) has exited the view and will be deleted.
+22:12:11  539 GameManager::run(): Can't keep up! frame_time 33 ms, split 37 ms
+22:12:11  540 GameManager::run(): Can't keep up! frame_time 33 ms, split 39 ms
+22:12:11  544 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:12:11  547 GameManager::run(): Can't keep up! frame_time 33 ms, split 41 ms
+22:12:11  548 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+22:12:11  549 Platform at (51.600029, 4551.000000) has exited the view and will be deleted.
+22:12:11  549 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+22:12:11  550 GameManager::run(): Can't keep up! frame_time 33 ms, split 39 ms
+22:12:11  554 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:12:11  555 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:12:11  556 GameManager::run(): Can't keep up! frame_time 33 ms, split 43 ms
+22:12:11  557 GameManager::run(): Can't keep up! frame_time 33 ms, split 40 ms
+22:12:12  558 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
+22:12:12  559 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:12:12  560 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+22:12:12  561 GameManager::run(): Can't keep up! frame_time 33 ms, split 49 ms
+22:12:12  562 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
+22:12:12  563 GameManager::run(): Can't keep up! frame_time 33 ms, split 37 ms
+22:12:12  567 Platform at (36.299995, 4541.000000) has exited the view and will be deleted.
+22:12:12  577 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:12:12  578 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:12  579 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+22:12:12  580 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+22:12:12  581 GameManager::run(): Can't keep up! frame_time 33 ms, split 37 ms
+22:12:12  582 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:12:12  583 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:12  584 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:13  585 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
+22:12:13  586 GameManager::run(): Can't keep up! frame_time 33 ms, split 39 ms
+22:12:13  587 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:12:13  588 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:13  591 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:13  592 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:13  593 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:13  594 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:13  595 GameManager::run(): Can't keep up! frame_time 33 ms, split 37 ms
+22:12:13  596 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
+22:12:13  597 GameManager::run(): Can't keep up! frame_time 33 ms, split 43 ms
+22:12:13  598 GameManager::run(): Can't keep up! frame_time 33 ms, split 40 ms
+22:12:13  599 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:12:13  600 Platform at (55.700016, 4531.000000) has exited the view and will be deleted.
+22:12:13  605 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:12:13  610 Platform at (64.699966, 4521.000000) has exited the view and will be deleted.
+22:12:14  622 GameManager::run(): Can't keep up! frame_time 33 ms, split 43 ms
+22:12:14  623 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:12:14  624 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:12:14  628 Platform at (41.099979, 4511.000000) has exited the view and will be deleted.
+22:12:14  629 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
+22:12:14  638 GameManager::run(): Can't keep up! frame_time 33 ms, split 39 ms
+22:12:14  639 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:12:14  640 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:12:14  641 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:12:14  642 GameManager::run(): Can't keep up! frame_time 33 ms, split 37 ms
+22:12:15  643 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:12:15  644 GameManager::run(): Can't keep up! frame_time 33 ms, split 39 ms
+22:12:15  645 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:15  646 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:12:15  647 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
+22:12:15  648 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:12:15  649 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:12:15  650 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
+22:12:15  654 GameManager::run(): Can't keep up! frame_time 33 ms, split 43 ms
+22:12:15  655 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
+22:12:15  656 GameManager::run(): Can't keep up! frame_time 33 ms, split 41 ms
+22:12:15  657 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:12:15  658 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:12:15  666 Platform at (46.000000, 4501.000000) has exited the view and will be deleted.
+22:12:16  672 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:16  673 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:12:16  676 Platform at (57.099964, 4491.000000) has exited the view and will be deleted.
+22:12:16  694 Platform at (56.499939, 4481.000000) has exited the view and will be deleted.
+22:12:17  726 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+22:12:17  730 Platform at (15.899998, 4471.000000) has exited the view and will be deleted.
+22:12:18  740 Platform at (15.000000, 4461.000000) has exited the view and will be deleted.
+22:12:18  742 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:12:18  758 Platform at (28.500004, 4451.000000) has exited the view and will be deleted.
+22:12:20  791 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:20  794 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:12:20  795 Platform at (26.900005, 4441.000000) has exited the view and will be deleted.
+22:12:20  801 GameManager::run(): Can't keep up! frame_time 33 ms, split 42 ms
+22:12:20  802 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+22:12:20  803 GameManager::run(): Can't keep up! frame_time 33 ms, split 41 ms
+22:12:20  804 GameManager::run(): Can't keep up! frame_time 33 ms, split 37 ms
+22:12:20  805 Platform at (30.899847, 4431.000000) has exited the view and will be deleted.
+22:12:20  805 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
+22:12:20  806 GameManager::run(): Can't keep up! frame_time 33 ms, split 37 ms
+22:12:20  807 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:20  812 GameManager::run(): Can't keep up! frame_time 33 ms, split 47 ms
+22:12:20  813 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:12:20  814 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:12:20  815 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:20  816 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:12:20  817 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:12:21  823 Platform at (11.299992, 4421.000000) has exited the view and will be deleted.
+22:12:21  826 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:12:21  827 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:12:21  828 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:12:21  829 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:12:21  830 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:12:21  831 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:21  832 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:21  833 GameManager::run(): Can't keep up! frame_time 33 ms, split 37 ms
+22:12:21  834 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:21  842 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:22  848 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:12:22  851 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:12:22  852 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:12:22  853 GameManager::run(): Can't keep up! frame_time 33 ms, split 40 ms
+22:12:22  854 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+22:12:22  855 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:12:22  856 GameManager::run(): Can't keep up! frame_time 33 ms, split 52 ms
+22:12:22  857 GameManager::run(): Can't keep up! frame_time 33 ms, split 48 ms
+22:12:22  858 Platform at (50.099918, 4411.000000) has exited the view and will be deleted.
+22:12:22  858 GameManager::run(): Can't keep up! frame_time 33 ms, split 41 ms
+22:12:22  859 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:12:22  860 GameManager::run(): Can't keep up! frame_time 33 ms, split 43 ms
+22:12:22  861 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:12:22  862 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:22  863 GameManager::run(): Can't keep up! frame_time 33 ms, split 37 ms
+22:12:22  864 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:22  865 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:22  868 Platform at (8.400000, 4401.000000) has exited the view and will be deleted.
+22:12:23  886 Platform at (65.100029, 4391.000000) has exited the view and will be deleted.
+22:12:23  887 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:12:23  899 GameManager::run(): Can't keep up! frame_time 33 ms, split 41 ms
+22:12:23  900 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:12:24  918 GameManager::run(): Can't keep up! frame_time 33 ms, split 41 ms
+22:12:24  922 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:12:24  923 Platform at (57.899948, 4381.000000) has exited the view and will be deleted.
+22:12:24  928 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
+22:12:24  929 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:12:24  933 Platform at (58.999977, 4371.000000) has exited the view and will be deleted.
+22:12:25  951 Platform at (26.299984, 4361.000000) has exited the view and will be deleted.
+22:12:26  977 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:26  990 Platform at (35.899994, 4351.000000) has exited the view and will be deleted.
+22:12:27 1000 Platform at (19.399939, 4341.000000) has exited the view and will be deleted.
+22:12:27 1000 GameManager::run(): Can't keep up! frame_time 33 ms, split 37 ms
+22:12:27 1001 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:12:27 1008 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:27 1009 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:12:27 1018 Platform at (66.000046, 4331.000000) has exited the view and will be deleted.
+22:12:28 1025 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:28 1037 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:12:29 1054 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:12:29 1056 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:12:29 1058 Platform at (34.999989, 4321.000000) has exited the view and will be deleted.
+22:12:29 1068 Platform at (14.000035, 4311.000000) has exited the view and will be deleted.
+22:12:29 1078 GameManager::run(): Can't keep up! frame_time 33 ms, split 41 ms
+22:12:29 1079 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:12:30 1085 Fish collected. +100 points
+22:12:30 1086 GameManager::run(): Can't keep up! frame_time 33 ms, split 45 ms
+22:12:30 1087 Platform at (29.200012, 4301.000000) has exited the view and will be deleted.
+22:12:30 1087 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:30 1088 GameManager::run(): Can't keep up! frame_time 33 ms, split 43 ms
+22:12:30 1089 GameManager::run(): Can't keep up! frame_time 33 ms, split 40 ms
+22:12:30 1094 GameManager::run(): Can't keep up! frame_time 33 ms, split 41 ms
+22:12:30 1101 Fish collected. +100 points
+22:12:31 1124 Platform at (51.000000, 4291.000000) has exited the view and will be deleted.
+22:12:31 1134 Platform at (20.099995, 4281.000000) has exited the view and will be deleted.
+22:12:32 1142 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:32 1151 Fish collected. +100 points
+22:12:32 1153 Platform at (11.500001, 4271.000000) has exited the view and will be deleted.
+22:12:32 1171 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:12:33 1187 Platform at (67.800049, 4261.000000) has exited the view and will be deleted.
+22:12:33 1197 Platform at (48.500000, 4251.000000) has exited the view and will be deleted.
+22:12:34 1215 Platform at (41.100014, 4241.000000) has exited the view and will be deleted.
+22:12:34 1220 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:12:34 1221 GameManager::run(): Can't keep up! frame_time 33 ms, split 39 ms
+22:12:34 1224 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:12:34 1225 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:12:34 1226 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:12:34 1227 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:34 1228 GameManager::run(): Can't keep up! frame_time 33 ms, split 37 ms
+22:12:34 1229 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:34 1230 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:12:35 1231 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:35 1232 GameManager::run(): Can't keep up! frame_time 33 ms, split 39 ms
+22:12:35 1233 GameManager::run(): Can't keep up! frame_time 33 ms, split 37 ms
+22:12:35 1234 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:35 1239 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:35 1247 GameManager::run(): Can't keep up! frame_time 33 ms, split 43 ms
+22:12:35 1248 GameManager::run(): Can't keep up! frame_time 33 ms, split 42 ms
+22:12:35 1249 GameManager::run(): Can't keep up! frame_time 33 ms, split 39 ms
+22:12:35 1250 GameManager::run(): Can't keep up! frame_time 33 ms, split 39 ms
+22:12:35 1251 Platform at (39.500000, 4231.000000) has exited the view and will be deleted.
+22:12:35 1251 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:12:35 1254 Fish collected. +100 points
+22:12:36 1262 Platform at (12.999986, 4221.000000) has exited the view and will be deleted.
+22:12:36 1268 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
+22:12:36 1277 Fish collected. +100 points
+22:12:36 1287 Platform at (8.799987, 4211.000000) has exited the view and will be deleted.
+22:12:37 1300 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:12:37 1304 GameManager::run(): Can't keep up! frame_time 33 ms, split 40 ms
+22:12:37 1305 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
+22:12:37 1310 GameManager::run(): Can't keep up! frame_time 33 ms, split 37 ms
+22:12:37 1311 Platform at (23.100002, 4201.000000) has exited the view and will be deleted.
+22:12:38 1321 Platform at (49.500000, 4191.000000) has exited the view and will be deleted.
+22:12:38 1339 Platform at (40.499992, 4181.000000) has exited the view and will be deleted.
+22:12:39 1375 Platform at (62.600014, 4171.000000) has exited the view and will be deleted.
+22:12:40 1384 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:40 1385 Platform at (66.500000, 4161.000000) has exited the view and will be deleted.
+22:12:40 1390 GameManager::run(): Can't keep up! frame_time 33 ms, split 37 ms
+22:12:40 1403 Platform at (64.499931, 4151.000000) has exited the view and will be deleted.
+22:12:41 1420 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:12:41 1421 GameManager::run(): Can't keep up! frame_time 33 ms, split 42 ms
+22:12:41 1437 Platform at (7.700013, 4141.000000) has exited the view and will be deleted.
+22:12:42 1447 Platform at (58.699928, 4131.000000) has exited the view and will be deleted.
+22:12:42 1450 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:12:42 1451 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:12:42 1465 Platform at (43.500008, 4121.000000) has exited the view and will be deleted.
+22:12:42 1468 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:12:44 1509 Platform at (20.800051, 4111.000000) has exited the view and will be deleted.
+22:12:44 1517 GameManager::run(): Can't keep up! frame_time 33 ms, split 39 ms
+22:12:44 1518 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
+22:12:44 1519 Platform at (55.499966, 4101.000000) has exited the view and will be deleted.
+22:12:44 1525 GameManager::run(): Can't keep up! frame_time 33 ms, split 37 ms
+22:12:45 1537 Platform at (49.299984, 4091.000000) has exited the view and will be deleted.
+22:12:45 1550 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:12:45 1551 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:46 1570 GameManager::run(): Can't keep up! frame_time 33 ms, split 40 ms
+22:12:46 1571 GameManager::run(): Can't keep up! frame_time 33 ms, split 42 ms
+22:12:46 1573 Platform at (9.800033, 4081.000000) has exited the view and will be deleted.
+22:12:46 1576 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:12:46 1583 Platform at (22.199989, 4071.000000) has exited the view and will be deleted.
+22:12:47 1601 Platform at (26.399992, 4061.000000) has exited the view and will be deleted.
+22:12:48 1641 Platform at (46.500000, 4051.000000) has exited the view and will be deleted.
+22:12:48 1642 GameManager::run(): Can't keep up! frame_time 33 ms, split 33 ms
+22:12:49 1651 Platform at (57.199974, 4041.000000) has exited the view and will be deleted.
+22:12:49 1661 GameManager::run(): Can't keep up! frame_time 33 ms, split 42 ms
+22:12:49 1662 GameManager::run(): Can't keep up! frame_time 33 ms, split 39 ms
+22:12:49 1663 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:12:49 1667 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
+22:12:49 1669 Platform at (41.100025, 4031.000000) has exited the view and will be deleted.
+22:12:49 1672 GameManager::run(): Can't keep up! frame_time 33 ms, split 36 ms
+22:12:50 1704 Platform at (58.099972, 4021.000000) has exited the view and will be deleted.
+22:12:51 1710 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
+22:12:51 1714 Platform at (10.099992, 4011.000000) has exited the view and will be deleted.
+22:12:51 1718 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:12:51 1729 GameManager::run(): Can't keep up! frame_time 33 ms, split 37 ms
+22:12:51 1730 GameManager::run(): Can't keep up! frame_time 33 ms, split 43 ms
+22:12:51 1732 Platform at (10.000000, 4001.000000) has exited the view and will be deleted.
+22:12:51 1734 Fish collected. +100 points
+22:12:52 1738 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:12:52 1739 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:12:52 1759 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:12:56 1861 GameManager::run(): Can't keep up! frame_time 33 ms, split 38 ms
+22:12:56 1862 GameManager::run(): Can't keep up! frame_time 33 ms, split 37 ms
+22:12:56 1879 GameManager::run(): Can't keep up! frame_time 33 ms, split 34 ms
+22:12:57 1889 GameManager::run(): Can't keep up! frame_time 33 ms, split 35 ms
+22:13:00 1994 GameManager::run(): Can't keep up! frame_time 33 ms, split 39 ms
+22:13:02 2058 GameManager::run(): Can't keep up! frame_time 33 ms, split 44 ms
+22:13:02 2059 ****************************************************
+22:13:02 2059 ** Game engine stopped **

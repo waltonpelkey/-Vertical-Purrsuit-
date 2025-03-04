@@ -146,6 +146,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Cat.h" />
+    <ClInclude Include="Catnip.h" />
+    <ClInclude Include="CatnipEffect.h" />
+    <ClInclude Include="EventCatnip.h" />
     <ClInclude Include="EventScore.h" />
     <ClInclude Include="Fish.h" />
     <ClInclude Include="Floor.h" />
@@ -153,6 +156,9 @@
     <ClInclude Include="Score.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Catnip.cpp" />
+    <ClCompile Include="CatnipEffect.cpp" />
+    <ClCompile Include="EventCatnip.cpp" />
     <ClCompile Include="EventScore.cpp" />
     <ClCompile Include="Fish.cpp" />
     <ClCompile Include="Floor.cpp" />

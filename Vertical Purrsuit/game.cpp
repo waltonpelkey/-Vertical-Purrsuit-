@@ -14,6 +14,8 @@
 #include "Platform.h" 
 #include "Score.h"
 #include "Fish.h"
+#include "Catnip.h"
+#include <DisplayManager.h>
 
 
 // Function prototypes
@@ -35,13 +37,15 @@ int main(int argc, char* argv[]) {
     LM.setFlush(true);
 
     // Show splash screen.
-    df::splash();
+    // df::splash();
 
     // Load game resources.
     loadResources();
 
     // Populate game world with some objects
     populateWorld(); 
+
+    DM.setBackgroundColor(df::WHITE);
 
     // Run game (block until game loop is over)
     GM.run();
@@ -79,6 +83,23 @@ void loadResources(void) {
 
     // Fish
     RM.loadSprite("sprites/fish-spr.txt", "fish");
+
+    // Catnip
+    RM.loadSprite("sprites/catnip-spr.txt", "catnip");
+
+    // Sounds
+    RM.loadSound("audio/meow-1.wav", "meow-1");
+    RM.loadSound("audio/meow-2.wav", "meow-2");
+    RM.loadSound("audio/meow-3.wav", "meow-3");
+    RM.loadSound("audio/meow-4.wav", "meow-4");
+    RM.loadSound("audio/grounded-1.wav", "grounded-1");
+    RM.loadSound("audio/grounded-2.wav", "grounded-2");
+    RM.loadSound("audio/grounded-3.wav", "grounded-3");
+    RM.loadSound("audio/grounded-4.wav", "grounded-4");
+    RM.loadSound("audio/cat-reverb.wav", "cat-reverb");
+
+    // Music
+    RM.loadMusic("audio/background-music.wav", "background-music");
 }
 
 // Populate world with objects
@@ -98,10 +119,13 @@ void populateWorld(void) {
     for (float y = 0; y < 4990; y += 10) {
         Platform* platform = new Platform(y + ((rand() % 1) + 1));
 
-        // Spawn a Fish 5 percent of the time
-        if ((rand() % 100) < 5) {
+        // Spawn a Fish 20 percent of the time
+        if ((rand() % 100) < 20) {
             new Fish(platform);
-
+        }
+        // Spawna  catnip 4 percent of the time
+        else if ((rand() % 100) < 4){
+            new Catnip(platform);
         }
     }
 
